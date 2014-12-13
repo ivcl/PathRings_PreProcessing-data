@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Pathway>
+    <ANodeBlock Num='0'/>
+    <Canvas>
+        <Size>(1920,919)</Size>
+    </Canvas>
+    <compartmentBlock Num='2'>
+        <compartment j='0'>
+            <Name>plasma membrane</Name>
+            <Position>(0.3832220329309009,0.24138548523667985,0.23355593413819817,0.30155400349403744)</Position>
+            <Contain>(C, 1, C, 10, C, 12, C, 16, C, 17, C, 18, C, 19, C, 2, C, 20, C, 21, C, 23, C, 3, C, 30, C, 31, C,
+                32, C, 33, C, 34, C, 35, C, 4, C, 5, C, 6, C, 8, C, 9, C, 11, C, 25, C, 26, P, 10, P, 15, P, 2, P, 6, R,
+                15, R, 17, R, 18, R, 19, R, 23, R, 24, R, 26, R, 3, R, 4, R, 5, R, 7, R, 8, R, 10, R, 21, R, 25, R, 14,
+                R, 2, R, 6, )
+            </Contain>
+        </compartment>
+        <compartment j='1'>
+            <Name>cytosol</Name>
+            <Position>(0.3775679358681818,0.01632208922742111,0.16167177465320656,0.20874130678183764)</Position>
+            <Contain>(C, 13, C, 14, C, 15, C, 24, C, 27, C, 29, P, 11, P, 12, P, 13, P, 16, P, 17, P, 23, P, 24, P, 3,
+                P, 4, P, 5, P, 20, R, 11, R, 12, R, 16, R, 20, R, 22, R, 9, )
+            </Contain>
+        </compartment>
+        <compartment j='2'>
+            <Name>extracellular region</Name>
+            <Position>(0.5470522105213883,0.01632208922742111,0.0753798536104298,0.097326136126215)</Position>
+            <Contain>(C, 7, P, 1, P, 14, R, 1, R, 13, )</Contain>
+        </compartment>
+    </compartmentBlock>
+    <complexBlock Num='36'>
+        <complex j='1'>
+            <Position>(0.37584108056599974,0.19686609338831015,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='10'>
+            <Position>(0.37266138587909386,0.806502724301105,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='12'>
+            <Position>(0.1226032403331004,0.7066545417602194,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='16'>
+            <Position>(0.3163351744599594,0.15999227810543634,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='17'>
+            <Position>(0.34936219859614215,0.3520606623386065,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='18'>
+            <Position>(0.455913914287977,0.4517753654754145,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='19'>
+            <Position>(0.2413412746155381,0.46765999958948057,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='2'>
+            <Position>(0.1892666541498589,0.25000769668304806,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='20'>
+            <Position>(0.6108367175118673,0.5103363691665807,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='21'>
+            <Position>(0.7061627723741838,0.42685583186312237,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='23'>
+            <Position>(0.09883759648628118,0.4166784875090489,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='3'>
+            <Position>(0.6145030097980312,0.2422448264247513,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='30'>
+            <Position>(0.7155507773115413,0.12690755772640988,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='31'>
+            <Position>(0.7991391667013436,0.3007204711109794,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='32'>
+            <Position>(0.5196081653878725,0.7049523716162628,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='33'>
+            <Position>(0.6917624692998322,0.8383665852114657,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='34'>
+            <Position>(0.5657019389618079,0.8013822636762407,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='35'>
+            <Position>(0.8018110515348005,0.7424289785586607,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='4'>
+            <Position>(0.8523966213629645,0.42492993240024746,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='5'>
+            <Position>(0.4967683849955768,0.27450992037441646,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='6'>
+            <Position>(0.4034506398854304,0.6515226353419135,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='8'>
+            <Position>(0.5273636860565849,0.5783391679705705,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='9'>
+            <Position>(0.2772423190996594,0.5807532644834663,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='11'>
+            <Position>(0.0787715667454629,0.5610267639022642,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='25'>
+            <Position>(0.8876366341665316,0.5841298069633886,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='26'>
+            <Position>(0.7305060419191937,0.6076794022639418,0.03345023122117394,0.021650635094610963)</Position>
+        </complex>
+        <complex j='13'>
+            <Position>(0.7284105849557941,0.24896423305275261,0.048323215457727074,0.03127716210856121)</Position>
+        </complex>
+        <complex j='14'>
+            <Position>(0.5427262499871427,0.35844535656441917,0.048323215457727074,0.03127716210856121)</Position>
+        </complex>
+        <complex j='15'>
+            <Position>(0.31309993636554245,0.5764250068806468,0.048323215457727074,0.03127716210856121)</Position>
+        </complex>
+        <complex j='24'>
+            <Position>(0.3795908023588951,0.8023000529869826,0.048323215457727074,0.03127716210856121)</Position>
+        </complex>
+        <complex j='27'>
+            <Position>(0.569992100911696,0.8784350806602118,0.048323215457727074,0.03127716210856121)</Position>
+        </complex>
+        <complex j='29'>
+            <Position>(0.15899260322306122,0.41361349179448215,0.048323215457727074,0.03127716210856121)</Position>
+        </complex>
+        <complex j='7'>
+            <Position>(0.7244674909849601,0.15978502214742443,0.10364175075711525,0.06708203932499368)</Position>
+        </complex>
+    </complexBlock>
+    <physicalEntityBlock Num='1'></physicalEntityBlock>
+    <proteinBlock Num='25'>
+        <protein j='10'>
+            <Name>p60</Name>
+            <Position>(0.2558763242607207,0.7109543774534511,0.08920061658979717,0.05412658773652741)</Position>
+        </protein>
+        <protein j='15'>
+            <Name>TRAIL-R2</Name>
+            <Position>(0.45335715187437553,0.05610485886268358,0.08920061658979717,0.05412658773652741)</Position>
+        </protein>
+        <protein j='2'>
+            <Name>FAS</Name>
+            <Position>(0.444493607574034,0.8895940481098635,0.08920061658979717,0.05412658773652741)</Position>
+        </protein>
+        <protein j='6'>
+            <Name>FLICE2</Name>
+            <Position>(0.5413499684442741,0.36803932514518245,0.08920061658979717,0.05412658773652741)</Position>
+        </protein>
+        <protein j='11'>
+            <Name>RIPK1</Name>
+            <Position>(0.3821908129177613,0.29224528650562276,0.1288619078872722,0.07819290527140303)</Position>
+        </protein>
+        <protein j='12'>
+            <Name>TRADD</Name>
+            <Position>(0.6052574425369324,0.4089079233830133,0.1288619078872722,0.07819290527140303)</Position>
+        </protein>
+        <protein j='13'>
+            <Name>TRAF2</Name>
+            <Position>(0.3337323311620979,0.38502472734416415,0.1288619078872722,0.07819290527140303)</Position>
+        </protein>
+        <protein j='16'>
+            <Name>MRIT</Name>
+            <Position>(0.3412049827129281,0.0695270702410414,0.1288619078872722,0.07819290527140303)</Position>
+        </protein>
+        <protein j='17'>
+            <Name>CLARP2</Name>
+            <Position>(0.20430298918899342,0.7200364962222965,0.1288619078872722,0.07819290527140303)</Position>
+        </protein>
+        <protein j='23'>
+            <Name>CLARP1</Name>
+            <Position>(0.05828405581115187,0.5388041174911263,0.1288619078872722,0.07819290527140303)</Position>
+        </protein>
+        <protein j='24'>
+            <Name>CLARP1</Name>
+            <Position>(0.7104251300488043,0.729819766611445,0.1288619078872722,0.07819290527140303)</Position>
+        </protein>
+        <protein j='3'>
+            <Name>FADD</Name>
+            <Position>(0.5179641955735127,0.1486185030043808,0.1288619078872722,0.07819290527140303)</Position>
+        </protein>
+        <protein j='4'>
+            <Name>MACH</Name>
+            <Position>(0.42238175828184804,0.6179377555121642,0.1288619078872722,0.07819290527140303)</Position>
+        </protein>
+        <protein j='5'>
+            <Name>E6</Name>
+            <Position>(0.5483173728570397,0.5145932710174714,0.1288619078872722,0.07819290527140303)</Position>
+        </protein>
+        <protein j='20'>
+            <Name>viral c-FLIP homologue</Name>
+            <Position>(0.8124110442074783,0.5318393039908578,0.1288619078872722,0.07819290527140303)</Position>
+        </protein>
+        <protein j='1'>
+            <Name>FASL</Name>
+            <Position>(0.0883108899783333,0.7265803724121968,0.276378002018974,0.16770509831248423)</Position>
+        </protein>
+        <protein j='14'>
+            <Name>TRAIL</Name>
+            <Position>(0.18803588385117745,0.21792639887017015,0.276378002018974,0.16770509831248423)</Position>
+        </protein>
+    </proteinBlock>
+    <DnaBlock Num='1'></DnaBlock>
+    <RnaBlock Num='1'></RnaBlock>
+    <smallMoleculeBlock Num='1'></smallMoleculeBlock>
+    <reactionBlock Num='27'>
+        <reaction j='15'>
+            <Type>B</Type>
+            <Position>(0.39022086874864714,0.42377921912413863,0.013380092488469575,0.021650635094610963)</Position>
+        </reaction>
+        <reaction j='17'>
+            <Type>B</Type>
+            <Position>(0.5541497755888876,0.45834569202077263,0.013380092488469575,0.021650635094610963)</Position>
+        </reaction>
+        <reaction j='18'>
+            <Type>B</Type>
+            <Position>(0.7871597386115745,0.45394944899560774,0.013380092488469575,0.021650635094610963)</Position>
+        </reaction>
+        <reaction j='19'>
+            <Type>B</Type>
+            <Position>(0.18511998840475327,0.43212592511571385,0.013380092488469575,0.021650635094610963)</Position>
+        </reaction>
+        <reaction j='23'>
+            <Type>B</Type>
+            <Position>(0.7799687455498158,0.17779136923631536,0.013380092488469575,0.021650635094610963)</Position>
+        </reaction>
+        <reaction j='24'>
+            <Type>B</Type>
+            <Position>(0.8701051140921409,0.34836218954791476,0.013380092488469575,0.021650635094610963)</Position>
+        </reaction>
+        <reaction j='26'>
+            <Type>B</Type>
+            <Position>(0.740996632895902,0.7727716942369837,0.013380092488469575,0.021650635094610963)</Position>
+        </reaction>
+        <reaction j='3'>
+            <Type>B</Type>
+            <Position>(0.12498229767514416,0.272720195561641,0.013380092488469575,0.021650635094610963)</Position>
+        </reaction>
+        <reaction j='4'>
+            <Type>B</Type>
+            <Position>(0.5986019888498603,0.16992132340361515,0.013380092488469575,0.021650635094610963)</Position>
+        </reaction>
+        <reaction j='5'>
+            <Type>B</Type>
+            <Position>(0.5794233667485705,0.3068504309534263,0.013380092488469575,0.021650635094610963)</Position>
+        </reaction>
+        <reaction j='7'>
+            <Type>B</Type>
+            <Position>(0.26829994826339765,0.653402675637189,0.013380092488469575,0.021650635094610963)</Position>
+        </reaction>
+        <reaction j='8'>
+            <Type>B</Type>
+            <Position>(0.3771786469680154,0.7280416323025295,0.013380092488469575,0.021650635094610963)</Position>
+        </reaction>
+        <reaction j='10'>
+            <Type>K</Type>
+            <Position>(0.11498250165801488,0.6317833403416546,0.013380092488469575,0.021650635094610963)</Position>
+        </reaction>
+        <reaction j='21'>
+            <Type>K</Type>
+            <Position>(0.819566157321254,0.5985655853321085,0.013380092488469575,0.021650635094610963)</Position>
+        </reaction>
+        <reaction j='25'>
+            <Type>K</Type>
+            <Position>(0.598538148364574,0.7282056414248409,0.013380092488469575,0.021650635094610963)</Position>
+        </reaction>
+        <reaction j='14'>
+            <Type>T</Type>
+            <Position>(0.35195447923081236,0.270126265246756,0.013380092488469575,0.021650635094610963)</Position>
+        </reaction>
+        <reaction j='2'>
+            <Type>T</Type>
+            <Position>(0.2774344504190859,0.22157232474810543,0.013380092488469575,0.021650635094610963)</Position>
+        </reaction>
+        <reaction j='6'>
+            <Type>T</Type>
+            <Position>(0.46154046324139475,0.5906721307871441,0.013380092488469575,0.021650635094610963)</Position>
+        </reaction>
+        <reaction j='11'>
+            <Type>B</Type>
+            <Position>(0.6312003644200479,0.2595138580702248,0.019329286183090832,0.03127716210856121)</Position>
+        </reaction>
+        <reaction j='12'>
+            <Type>B</Type>
+            <Position>(0.4507601560443419,0.5225038323294935,0.019329286183090832,0.03127716210856121)</Position>
+        </reaction>
+        <reaction j='16'>
+            <Type>B</Type>
+            <Position>(0.5944985458354175,0.6410479574385193,0.019329286183090832,0.03127716210856121)</Position>
+        </reaction>
+        <reaction j='20'>
+            <Type>B</Type>
+            <Position>(0.36428715030466186,0.6946921965999112,0.019329286183090832,0.03127716210856121)</Position>
+        </reaction>
+        <reaction j='22'>
+            <Type>B</Type>
+            <Position>(0.2113964267702591,0.5169629729750315,0.019329286183090832,0.03127716210856121)</Position>
+        </reaction>
+        <reaction j='9'>
+            <Type>B</Type>
+            <Position>(0.5187251355139588,0.4328620549663819,0.019329286183090832,0.03127716210856121)</Position>
+        </reaction>
+        <reaction j='1'>
+            <Type>B</Type>
+            <Position>(0.4275966340978054,0.7490726029158664,0.0414567003028461,0.06708203932499368)</Position>
+        </reaction>
+        <reaction j='13'>
+            <Type>B</Type>
+            <Position>(0.4937739909179387,0.3764795311281329,0.0414567003028461,0.06708203932499368)</Position>
+        </reaction>
+    </reactionBlock>
+    <edgeBlock Num='82'>
+        <edge j='0'>
+            <Name>A</Name>
+            <Ends>(C, 8, R, 6)</Ends>
+        </edge>
+        <edge j='1'>
+            <Name>A</Name>
+            <Ends>(C, 27, R, 21)</Ends>
+        </edge>
+        <edge j='2'>
+            <Name>A</Name>
+            <Ends>(C, 27, R, 25)</Ends>
+        </edge>
+        <edge j='3'>
+            <Name>J</Name>
+            <Ends>(P, 1, R, 1)</Ends>
+        </edge>
+        <edge j='4'>
+            <Name>J</Name>
+            <Ends>(P, 2, R, 1)</Ends>
+        </edge>
+        <edge j='5'>
+            <Name>J</Name>
+            <Ends>(C, 12, R, 10)</Ends>
+        </edge>
+        <edge j='6'>
+            <Name>J</Name>
+            <Ends>(R, 10, C, 13)</Ends>
+        </edge>
+        <edge j='7'>
+            <Name>J</Name>
+            <Ends>(R, 10, C, 11)</Ends>
+        </edge>
+        <edge j='8'>
+            <Name>J</Name>
+            <Ends>(C, 13, R, 11)</Ends>
+        </edge>
+        <edge j='9'>
+            <Name>J</Name>
+            <Ends>(P, 3, R, 11)</Ends>
+        </edge>
+        <edge j='10'>
+            <Name>J</Name>
+            <Ends>(R, 11, C, 14)</Ends>
+        </edge>
+        <edge j='11'>
+            <Name>J</Name>
+            <Ends>(C, 14, R, 12)</Ends>
+        </edge>
+        <edge j='12'>
+            <Name>J</Name>
+            <Ends>(P, 4, R, 12)</Ends>
+        </edge>
+        <edge j='13'>
+            <Name>J</Name>
+            <Ends>(R, 12, C, 15)</Ends>
+        </edge>
+        <edge j='14'>
+            <Name>J</Name>
+            <Ends>(P, 14, R, 13)</Ends>
+        </edge>
+        <edge j='15'>
+            <Name>J</Name>
+            <Ends>(P, 15, R, 13)</Ends>
+        </edge>
+        <edge j='16'>
+            <Name>J</Name>
+            <Ends>(R, 13, C, 16)</Ends>
+        </edge>
+        <edge j='17'>
+            <Name>J</Name>
+            <Ends>(C, 16, R, 14)</Ends>
+        </edge>
+        <edge j='18'>
+            <Name>J</Name>
+            <Ends>(R, 14, C, 17)</Ends>
+        </edge>
+        <edge j='19'>
+            <Name>J</Name>
+            <Ends>(C, 17, R, 15)</Ends>
+        </edge>
+        <edge j='20'>
+            <Name>J</Name>
+            <Ends>(P, 3, R, 15)</Ends>
+        </edge>
+        <edge j='21'>
+            <Name>J</Name>
+            <Ends>(R, 15, C, 18)</Ends>
+        </edge>
+        <edge j='22'>
+            <Name>J</Name>
+            <Ends>(P, 4, R, 16)</Ends>
+        </edge>
+        <edge j='23'>
+            <Name>J</Name>
+            <Ends>(C, 18, R, 16)</Ends>
+        </edge>
+        <edge j='24'>
+            <Name>J</Name>
+            <Ends>(R, 16, C, 19)</Ends>
+        </edge>
+        <edge j='25'>
+            <Name>J</Name>
+            <Ends>(P, 6, R, 17)</Ends>
+        </edge>
+        <edge j='26'>
+            <Name>J</Name>
+            <Ends>(C, 18, R, 17)</Ends>
+        </edge>
+        <edge j='27'>
+            <Name>J</Name>
+            <Ends>(R, 17, C, 20)</Ends>
+        </edge>
+        <edge j='28'>
+            <Name>J</Name>
+            <Ends>(C, 4, R, 18)</Ends>
+        </edge>
+        <edge j='29'>
+            <Name>J</Name>
+            <Ends>(R, 18, C, 21)</Ends>
+        </edge>
+        <edge j='30'>
+            <Name>J</Name>
+            <Ends>(C, 19, R, 19)</Ends>
+        </edge>
+        <edge j='31'>
+            <Name>J</Name>
+            <Ends>(P, 4, R, 19)</Ends>
+        </edge>
+        <edge j='32'>
+            <Name>J</Name>
+            <Ends>(R, 19, C, 23)</Ends>
+        </edge>
+        <edge j='33'>
+            <Name>J</Name>
+            <Ends>(C, 1, R, 2)</Ends>
+        </edge>
+        <edge j='34'>
+            <Name>J</Name>
+            <Ends>(R, 2, C, 2)</Ends>
+        </edge>
+        <edge j='35'>
+            <Name>J</Name>
+            <Ends>(C, 15, R, 20)</Ends>
+        </edge>
+        <edge j='36'>
+            <Name>J</Name>
+            <Ends>(P, 4, R, 20)</Ends>
+        </edge>
+        <edge j='37'>
+            <Name>J</Name>
+            <Ends>(R, 20, C, 24)</Ends>
+        </edge>
+        <edge j='38'>
+            <Name>J</Name>
+            <Ends>(C, 25, R, 21)</Ends>
+        </edge>
+        <edge j='39'>
+            <Name>J</Name>
+            <Ends>(R, 21, C, 26)</Ends>
+        </edge>
+        <edge j='40'>
+            <Name>J</Name>
+            <Ends>(R, 21, C, 27)</Ends>
+        </edge>
+        <edge j='41'>
+            <Name>J</Name>
+            <Ends>(C, 15, R, 22)</Ends>
+        </edge>
+        <edge j='42'>
+            <Name>J</Name>
+            <Ends>(P, 23, R, 22)</Ends>
+        </edge>
+        <edge j='43'>
+            <Name>J</Name>
+            <Ends>(R, 22, C, 29)</Ends>
+        </edge>
+        <edge j='44'>
+            <Name>J</Name>
+            <Ends>(P, 23, R, 23)</Ends>
+        </edge>
+        <edge j='45'>
+            <Name>J</Name>
+            <Ends>(R, 23, C, 30)</Ends>
+        </edge>
+        <edge j='46'>
+            <Name>J</Name>
+            <Ends>(C, 4, R, 24)</Ends>
+        </edge>
+        <edge j='47'>
+            <Name>J</Name>
+            <Ends>(P, 23, R, 24)</Ends>
+        </edge>
+        <edge j='48'>
+            <Name>J</Name>
+            <Ends>(R, 24, C, 31)</Ends>
+        </edge>
+        <edge j='49'>
+            <Name>J</Name>
+            <Ends>(C, 32, R, 25)</Ends>
+        </edge>
+        <edge j='50'>
+            <Name>J</Name>
+            <Ends>(R, 25, P, 24)</Ends>
+        </edge>
+        <edge j='51'>
+            <Name>J</Name>
+            <Ends>(R, 25, C, 34)</Ends>
+        </edge>
+        <edge j='52'>
+            <Name>J</Name>
+            <Ends>(C, 33, R, 26)</Ends>
+        </edge>
+        <edge j='53'>
+            <Name>J</Name>
+            <Ends>(P, 17, R, 26)</Ends>
+        </edge>
+        <edge j='54'>
+            <Name>J</Name>
+            <Ends>(R, 26, C, 35)</Ends>
+        </edge>
+        <edge j='55'>
+            <Name>J</Name>
+            <Ends>(C, 2, R, 3)</Ends>
+        </edge>
+        <edge j='56'>
+            <Name>J</Name>
+            <Ends>(P, 3, R, 3)</Ends>
+        </edge>
+        <edge j='57'>
+            <Name>J</Name>
+            <Ends>(C, 3, R, 4)</Ends>
+        </edge>
+        <edge j='58'>
+            <Name>J</Name>
+            <Ends>(P, 4, R, 4)</Ends>
+        </edge>
+        <edge j='59'>
+            <Name>J</Name>
+            <Ends>(P, 6, R, 5)</Ends>
+        </edge>
+        <edge j='60'>
+            <Name>J</Name>
+            <Ends>(C, 3, R, 5)</Ends>
+        </edge>
+        <edge j='61'>
+            <Name>J</Name>
+            <Ends>(R, 5, C, 5)</Ends>
+        </edge>
+        <edge j='62'>
+            <Name>J</Name>
+            <Ends>(C, 6, R, 6)</Ends>
+        </edge>
+        <edge j='63'>
+            <Name>J</Name>
+            <Ends>(R, 6, C, 7)</Ends>
+        </edge>
+        <edge j='64'>
+            <Name>J</Name>
+            <Ends>(P, 10, R, 7)</Ends>
+        </edge>
+        <edge j='65'>
+            <Name>J</Name>
+            <Ends>(C, 7, R, 7)</Ends>
+        </edge>
+        <edge j='66'>
+            <Name>J</Name>
+            <Ends>(R, 7, C, 9)</Ends>
+        </edge>
+        <edge j='67'>
+            <Name>J</Name>
+            <Ends>(P, 10, R, 8)</Ends>
+        </edge>
+        <edge j='68'>
+            <Name>J</Name>
+            <Ends>(C, 6, R, 8)</Ends>
+        </edge>
+        <edge j='69'>
+            <Name>J</Name>
+            <Ends>(R, 8, C, 10)</Ends>
+        </edge>
+        <edge j='70'>
+            <Name>J</Name>
+            <Ends>(P, 11, R, 9)</Ends>
+        </edge>
+        <edge j='71'>
+            <Name>J</Name>
+            <Ends>(P, 12, R, 9)</Ends>
+        </edge>
+        <edge j='72'>
+            <Name>J</Name>
+            <Ends>(P, 13, R, 9)</Ends>
+        </edge>
+        <edge j='73'>
+            <Name>J</Name>
+            <Ends>(R, 9, C, 12)</Ends>
+        </edge>
+        <edge j='74'>
+            <Name>I</Name>
+            <Ends>(P, 5, R, 4)</Ends>
+        </edge>
+        <edge j='75'>
+            <Name>I</Name>
+            <Ends>(P, 5, R, 9)</Ends>
+        </edge>
+        <edge j='76'>
+            <Name>I</Name>
+            <Ends>(P, 16, R, 15)</Ends>
+        </edge>
+        <edge j='77'>
+            <Name>I</Name>
+            <Ends>(P, 5, R, 16)</Ends>
+        </edge>
+        <edge j='78'>
+            <Name>I</Name>
+            <Ends>(P, 17, R, 18)</Ends>
+        </edge>
+        <edge j='79'>
+            <Name>I</Name>
+            <Ends>(P, 17, R, 19)</Ends>
+        </edge>
+        <edge j='80'>
+            <Name>I</Name>
+            <Ends>(P, 17, R, 20)</Ends>
+        </edge>
+        <edge j='81'>
+            <Name>I</Name>
+            <Ends>(P, 20, R, 21)</Ends>
+        </edge>
+    </edgeBlock>
+</Pathway>

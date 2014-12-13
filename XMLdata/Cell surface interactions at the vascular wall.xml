@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Pathway>
+    <ANodeBlock Num='0'/>
+    <Canvas>
+        <Size>(1920,955)</Size>
+    </Canvas>
+    <compartmentBlock Num='1'>
+        <compartment j='0'>
+            <Name>extracellular region</Name>
+            <Position>(0.3988673139158576,0.17650687393247141,0.2022653721682848,0.2513089005235602)</Position>
+            <Contain>(C, 1, C, 10, C, 2, C, 3, C, 4, C, 5, C, 7, C, 8, C, 9, E, 1, E, 2, P, 1, P, 11, P, 12, P, 2, P,
+                22, P, 3, P, 8, P, 9, S, 1, R, 1, R, 10, R, 11, R, 12, R, 13, R, 14, R, 18, R, 19, R, 3, R, 4, R, 8, R,
+                2, R, 5, R, 9, R, 6, R, 7, )
+            </Contain>
+        </compartment>
+        <compartment j='1'>
+            <Name>plasma membrane</Name>
+            <Position>(0.4416110164654505,0.015706806282722512,0.11677796706909908,0.14509326136702638)</Position>
+            <Contain>(C, 11, C, 12, C, 13, C, 15, C, 16, P, 13, P, 15, P, 20, P, 24, R, 15, R, 17, R, 16, )</Contain>
+        </compartment>
+    </compartmentBlock>
+    <complexBlock Num='17'>
+        <complex j='1'>
+            <Position>(0.20956605111029974,0.657707900919981,0.038625,0.025)</Position>
+        </complex>
+        <complex j='10'>
+            <Position>(0.7821809905918338,0.6753117199356691,0.038625,0.025)</Position>
+        </complex>
+        <complex j='2'>
+            <Position>(0.6079160966784,0.3344144173966452,0.038625,0.025)</Position>
+        </complex>
+        <complex j='3'>
+            <Position>(0.8053479028653335,0.28345694306257485,0.038625,0.025)</Position>
+        </complex>
+        <complex j='4'>
+            <Position>(0.7036946714371752,0.44490907692783105,0.038625,0.025)</Position>
+        </complex>
+        <complex j='5'>
+            <Position>(0.566679218597959,0.5777474462728212,0.038625,0.025)</Position>
+        </complex>
+        <complex j='7'>
+            <Position>(0.5881780220935198,0.6863686518044372,0.038625,0.025)</Position>
+        </complex>
+        <complex j='8'>
+            <Position>(0.454296248306504,0.7658563158001588,0.038625,0.025)</Position>
+        </complex>
+        <complex j='9'>
+            <Position>(0.46728813044159556,0.2975992424851376,0.038625,0.025)</Position>
+        </complex>
+        <complex j='11'>
+            <Position>(0.5157524948506228,0.21784500495732986,0.06690046244234787,0.043301270189221926)</Position>
+        </complex>
+        <complex j='12'>
+            <Position>(0.5897636798589291,0.5684817877622936,0.06690046244234787,0.043301270189221926)</Position>
+        </complex>
+        <complex j='13'>
+            <Position>(0.4136567078565131,0.2668480662589559,0.06690046244234787,0.043301270189221926)</Position>
+        </complex>
+        <complex j='15'>
+            <Position>(0.8100113951660535,0.30843923998405215,0.06690046244234787,0.043301270189221926)</Position>
+        </complex>
+        <complex j='16'>
+            <Position>(0.23808466745525877,0.4989763402753942,0.06690046244234787,0.043301270189221926)</Position>
+        </complex>
+    </complexBlock>
+    <physicalEntityBlock Num='3'>
+        <physicalEntity j='1'>
+            <Name>fibrin multimer, crosslinked</Name>
+            <Position>(0.608943988624206,0.11013242114775501,0.07725,0.05416666666666667)</Position>
+        </physicalEntity>
+        <physicalEntity j='2'>
+            <Name>fibrin digestion products (plasmin)</Name>
+            <Position>(0.7230504276963216,0.09111681547829953,0.07725,0.05416666666666667)</Position>
+        </physicalEntity>
+    </physicalEntityBlock>
+    <proteinBlock Num='25'>
+        <protein j='1'>
+            <Name>HRG</Name>
+            <Position>(0.17293572590256867,0.20968568479995742,0.103,0.0625)</Position>
+        </protein>
+        <protein j='11'>
+            <Name>SERPINF2</Name>
+            <Position>(0.8436043029485865,0.5608991673984907,0.103,0.0625)</Position>
+        </protein>
+        <protein j='12'>
+            <Name>uPA</Name>
+            <Position>(0.31432462867539246,0.8781587843000174,0.103,0.0625)</Position>
+        </protein>
+        <protein j='2'>
+            <Name>PLG</Name>
+            <Position>(0.314614738205268,0.40360720016988727,0.103,0.0625)</Position>
+        </protein>
+        <protein j='22'>
+            <Name>PAI-2</Name>
+            <Position>(0.05692719460783906,0.37469758728382785,0.103,0.0625)</Position>
+        </protein>
+        <protein j='3'>
+            <Name>PLAT</Name>
+            <Position>(0.4683168855389242,0.05947839338256943,0.103,0.0625)</Position>
+        </protein>
+        <protein j='8'>
+            <Name>PAI1</Name>
+            <Position>(0.35037921467169697,0.5121126946824948,0.103,0.0625)</Position>
+        </protein>
+        <protein j='9'>
+            <Name>SERPINE1-like proteins</Name>
+            <Position>(0.4250846665382988,0.48346824904564456,0.103,0.0625)</Position>
+        </protein>
+        <protein j='13'>
+            <Name>uPAR</Name>
+            <Position>(0.1803960460883447,0.7270484700792491,0.17840123317959433,0.10825317547305482)</Position>
+        </protein>
+        <protein j='15'>
+            <Name>HRG</Name>
+            <Position>(0.5024987218312491,0.44050753093937645,0.17840123317959433,0.10825317547305482)</Position>
+        </protein>
+        <protein j='20'>
+            <Name>SERPINE1-like proteins</Name>
+            <Position>(0.06692656471877521,0.2664232731521861,0.17840123317959433,0.10825317547305482)</Position>
+        </protein>
+        <protein j='24'>
+            <Name>plasminogen activator inhibitor</Name>
+            <Position>(0.522861247935196,0.8141432720187044,0.17840123317959433,0.10825317547305482)</Position>
+        </protein>
+    </proteinBlock>
+    <DnaBlock Num='1'></DnaBlock>
+    <RnaBlock Num='1'></RnaBlock>
+    <smallMoleculeBlock Num='2'>
+        <smallMolecule j='1'>
+            <Name>Zn2+</Name>
+            <Position>(0.3097438464506763,0.12670514654416523,0.103,0.0625)</Position>
+        </smallMolecule>
+    </smallMoleculeBlock>
+    <reactionBlock Num='20'>
+        <reaction j='1'>
+            <Type>B</Type>
+            <Position>(0.2683055290975743,0.3261815793791013,0.015449999999999998,0.025)</Position>
+        </reaction>
+        <reaction j='10'>
+            <Type>B</Type>
+            <Position>(0.45771802351045104,0.63890569118666,0.015449999999999998,0.025)</Position>
+        </reaction>
+        <reaction j='11'>
+            <Type>B</Type>
+            <Position>(0.4954305527575436,0.4042949055160135,0.015449999999999998,0.025)</Position>
+        </reaction>
+        <reaction j='12'>
+            <Type>B</Type>
+            <Position>(0.799516425845351,0.5551557124637722,0.015449999999999998,0.025)</Position>
+        </reaction>
+        <reaction j='13'>
+            <Type>B</Type>
+            <Position>(0.2859413529761452,0.8492166463145244,0.015449999999999998,0.025)</Position>
+        </reaction>
+        <reaction j='14'>
+            <Type>B</Type>
+            <Position>(0.36061410260262255,0.2659436707818634,0.015449999999999998,0.025)</Position>
+        </reaction>
+        <reaction j='18'>
+            <Type>B</Type>
+            <Position>(0.29390779445929033,0.4840531607471669,0.015449999999999998,0.025)</Position>
+        </reaction>
+        <reaction j='19'>
+            <Type>B</Type>
+            <Position>(0.09724845433141141,0.4940382037605506,0.015449999999999998,0.025)</Position>
+        </reaction>
+        <reaction j='3'>
+            <Type>B</Type>
+            <Position>(0.5687398924567658,0.18226561740364614,0.015449999999999998,0.025)</Position>
+        </reaction>
+        <reaction j='4'>
+            <Type>B</Type>
+            <Position>(0.7717642174908396,0.3532464305548521,0.015449999999999998,0.025)</Position>
+        </reaction>
+        <reaction j='8'>
+            <Type>B</Type>
+            <Position>(0.5061925817603182,0.5778831857586587,0.015449999999999998,0.025)</Position>
+        </reaction>
+        <reaction j='2'>
+            <Type>K</Type>
+            <Position>(0.27992389461012196,0.5744848763441808,0.015449999999999998,0.025)</Position>
+        </reaction>
+        <reaction j='5'>
+            <Type>K</Type>
+            <Position>(0.7077779286022076,0.33168421116121194,0.015449999999999998,0.025)</Position>
+        </reaction>
+        <reaction j='9'>
+            <Type>K</Type>
+            <Position>(0.6660058756282464,0.5938438184621069,0.015449999999999998,0.025)</Position>
+        </reaction>
+        <reaction j='6'>
+            <Type>T</Type>
+            <Position>(0.7079750355945218,0.2167766995129342,0.015449999999999998,0.025)</Position>
+        </reaction>
+        <reaction j='7'>
+            <Type>T</Type>
+            <Position>(0.626933896533343,0.4597001776629536,0.015449999999999998,0.025)</Position>
+        </reaction>
+        <reaction j='15'>
+            <Type>K</Type>
+            <Position>(0.48685452465450163,0.4418686497628546,0.02676018497693915,0.043301270189221926)</Position>
+        </reaction>
+        <reaction j='17'>
+            <Type>K</Type>
+            <Position>(0.5969020941419197,0.36159296102213173,0.02676018497693915,0.043301270189221926)</Position>
+        </reaction>
+        <reaction j='16'>
+            <Type>T</Type>
+            <Position>(0.44450097163982566,0.1133456798875327,0.02676018497693915,0.043301270189221926)</Position>
+        </reaction>
+    </reactionBlock>
+    <edgeBlock Num='64'>
+        <edge j='0'>
+            <Name>A</Name>
+            <Ends>(C, 3, R, 5)</Ends>
+        </edge>
+        <edge j='1'>
+            <Name>A</Name>
+            <Ends>(C, 13, R, 17)</Ends>
+        </edge>
+        <edge j='2'>
+            <Name>A</Name>
+            <Ends>(P, 20, R, 18)</Ends>
+        </edge>
+        <edge j='3'>
+            <Name>A</Name>
+            <Ends>(P, 24, R, 19)</Ends>
+        </edge>
+        <edge j='4'>
+            <Name>A</Name>
+            <Ends>(C, 4, R, 6)</Ends>
+        </edge>
+        <edge j='5'>
+            <Name>A</Name>
+            <Ends>(C, 4, R, 7)</Ends>
+        </edge>
+        <edge j='6'>
+            <Name>A</Name>
+            <Ends>(C, 7, R, 9)</Ends>
+        </edge>
+        <edge j='7'>
+            <Name>A</Name>
+            <Ends>(P, 9, R, 10)</Ends>
+        </edge>
+        <edge j='8'>
+            <Name>A</Name>
+            <Ends>(P, 9, R, 11)</Ends>
+        </edge>
+        <edge j='9'>
+            <Name>A</Name>
+            <Ends>(P, 11, R, 12)</Ends>
+        </edge>
+        <edge j='10'>
+            <Name>A</Name>
+            <Ends>(C, 11, R, 15)</Ends>
+        </edge>
+        <edge j='11'>
+            <Name>A</Name>
+            <Ends>(C, 4, R, 16)</Ends>
+        </edge>
+        <edge j='12'>
+            <Name>A</Name>
+            <Ends>(S, 1, R, 14)</Ends>
+        </edge>
+        <edge j='13'>
+            <Name>J</Name>
+            <Ends>(P, 1, R, 1)</Ends>
+        </edge>
+        <edge j='14'>
+            <Name>J</Name>
+            <Ends>(P, 2, R, 1)</Ends>
+        </edge>
+        <edge j='15'>
+            <Name>J</Name>
+            <Ends>(P, 8, R, 10)</Ends>
+        </edge>
+        <edge j='16'>
+            <Name>J</Name>
+            <Ends>(C, 5, R, 10)</Ends>
+        </edge>
+        <edge j='17'>
+            <Name>J</Name>
+            <Ends>(R, 10, C, 8)</Ends>
+        </edge>
+        <edge j='18'>
+            <Name>J</Name>
+            <Ends>(C, 2, R, 11)</Ends>
+        </edge>
+        <edge j='19'>
+            <Name>J</Name>
+            <Ends>(P, 8, R, 11)</Ends>
+        </edge>
+        <edge j='20'>
+            <Name>J</Name>
+            <Ends>(R, 11, C, 9)</Ends>
+        </edge>
+        <edge j='21'>
+            <Name>J</Name>
+            <Ends>(C, 4, R, 12)</Ends>
+        </edge>
+        <edge j='22'>
+            <Name>J</Name>
+            <Ends>(P, 11, R, 12)</Ends>
+        </edge>
+        <edge j='23'>
+            <Name>J</Name>
+            <Ends>(R, 12, C, 10)</Ends>
+        </edge>
+        <edge j='24'>
+            <Name>J</Name>
+            <Ends>(P, 12, R, 13)</Ends>
+        </edge>
+        <edge j='25'>
+            <Name>J</Name>
+            <Ends>(P, 13, R, 13)</Ends>
+        </edge>
+        <edge j='26'>
+            <Name>J</Name>
+            <Ends>(R, 13, C, 11)</Ends>
+        </edge>
+        <edge j='27'>
+            <Name>J</Name>
+            <Ends>(P, 2, R, 14)</Ends>
+        </edge>
+        <edge j='28'>
+            <Name>J</Name>
+            <Ends>(P, 15, R, 14)</Ends>
+        </edge>
+        <edge j='29'>
+            <Name>J</Name>
+            <Ends>(R, 14, C, 12)</Ends>
+        </edge>
+        <edge j='30'>
+            <Name>J</Name>
+            <Ends>(C, 12, R, 15)</Ends>
+        </edge>
+        <edge j='31'>
+            <Name>J</Name>
+            <Ends>(R, 15, P, 15)</Ends>
+        </edge>
+        <edge j='32'>
+            <Name>J</Name>
+            <Ends>(R, 15, C, 4)</Ends>
+        </edge>
+        <edge j='33'>
+            <Name>J</Name>
+            <Ends>(C, 11, R, 16)</Ends>
+        </edge>
+        <edge j='34'>
+            <Name>J</Name>
+            <Ends>(R, 16, C, 13)</Ends>
+        </edge>
+        <edge j='35'>
+            <Name>J</Name>
+            <Ends>(C, 12, R, 17)</Ends>
+        </edge>
+        <edge j='36'>
+            <Name>J</Name>
+            <Ends>(R, 17, P, 15)</Ends>
+        </edge>
+        <edge j='37'>
+            <Name>J</Name>
+            <Ends>(R, 17, C, 4)</Ends>
+        </edge>
+        <edge j='38'>
+            <Name>J</Name>
+            <Ends>(P, 8, R, 18)</Ends>
+        </edge>
+        <edge j='39'>
+            <Name>J</Name>
+            <Ends>(C, 13, R, 18)</Ends>
+        </edge>
+        <edge j='40'>
+            <Name>J</Name>
+            <Ends>(R, 18, C, 15)</Ends>
+        </edge>
+        <edge j='41'>
+            <Name>J</Name>
+            <Ends>(P, 22, R, 19)</Ends>
+        </edge>
+        <edge j='42'>
+            <Name>J</Name>
+            <Ends>(C, 13, R, 19)</Ends>
+        </edge>
+        <edge j='43'>
+            <Name>J</Name>
+            <Ends>(R, 19, C, 16)</Ends>
+        </edge>
+        <edge j='44'>
+            <Name>J</Name>
+            <Ends>(C, 1, R, 2)</Ends>
+        </edge>
+        <edge j='45'>
+            <Name>J</Name>
+            <Ends>(R, 2, P, 2)</Ends>
+        </edge>
+        <edge j='46'>
+            <Name>J</Name>
+            <Ends>(P, 3, R, 3)</Ends>
+        </edge>
+        <edge j='47'>
+            <Name>J</Name>
+            <Ends>(E, 1, R, 3)</Ends>
+        </edge>
+        <edge j='48'>
+            <Name>J</Name>
+            <Ends>(R, 3, C, 2)</Ends>
+        </edge>
+        <edge j='49'>
+            <Name>J</Name>
+            <Ends>(C, 2, R, 4)</Ends>
+        </edge>
+        <edge j='50'>
+            <Name>J</Name>
+            <Ends>(R, 4, C, 3)</Ends>
+        </edge>
+        <edge j='51'>
+            <Name>J</Name>
+            <Ends>(C, 3, R, 5)</Ends>
+        </edge>
+        <edge j='52'>
+            <Name>J</Name>
+            <Ends>(R, 5, C, 2)</Ends>
+        </edge>
+        <edge j='53'>
+            <Name>J</Name>
+            <Ends>(R, 5, C, 4)</Ends>
+        </edge>
+        <edge j='54'>
+            <Name>J</Name>
+            <Ends>(E, 1, R, 6)</Ends>
+        </edge>
+        <edge j='55'>
+            <Name>J</Name>
+            <Ends>(R, 6, E, 2)</Ends>
+        </edge>
+        <edge j='56'>
+            <Name>J</Name>
+            <Ends>(C, 2, R, 7)</Ends>
+        </edge>
+        <edge j='57'>
+            <Name>J</Name>
+            <Ends>(R, 7, C, 5)</Ends>
+        </edge>
+        <edge j='58'>
+            <Name>J</Name>
+            <Ends>(C, 5, R, 8)</Ends>
+        </edge>
+        <edge j='59'>
+            <Name>J</Name>
+            <Ends>(P, 2, R, 8)</Ends>
+        </edge>
+        <edge j='60'>
+            <Name>J</Name>
+            <Ends>(R, 8, C, 7)</Ends>
+        </edge>
+        <edge j='61'>
+            <Name>J</Name>
+            <Ends>(C, 7, R, 9)</Ends>
+        </edge>
+        <edge j='62'>
+            <Name>J</Name>
+            <Ends>(R, 9, C, 5)</Ends>
+        </edge>
+        <edge j='63'>
+            <Name>J</Name>
+            <Ends>(R, 9, C, 4)</Ends>
+        </edge>
+    </edgeBlock>
+</Pathway>

@@ -1,0 +1,2083 @@
+75157	FasL CD95L signaling
+75893	TNF signaling
+75158	TRAIL  signaling
+73887	Death Receptor  Signalling
+69416	Dimerization of procaspase-8
+140534	Caspase-8 activation
+3371378	Regulation by c-FLIP
+109607	Extrinsic Pathway for Apoptosis
+75108	Activation myristolyation of BID and translocation to mitochondria
+111447	Activation of BAD and translocation to mitochondria 
+111448	Activation of NOXA and translocation to mitochondria
+139915	Activation of PUMA and translocation to mitochondria
+111446	Activation of BIM and translocation to mitochondria 
+139910	Activation of BMF and translocation to mitochondria
+114452	Activation of BH3-only proteins
+111453	BH3-only proteins associate with and inactivate anti-apoptotic BCL-2 members
+114294	Activation translocation and oligomerization of BAX
+111452	Activation and oligomerization of BAK protein
+111455	Permeabilization of mitochondria
+111457	Release of apoptotic factors from the mitochondria
+111458	Formation of apoptosome
+111459	Activation of caspases through apoptosome-mediated cleavage
+111461	Cytochrome c-mediated apoptotic response
+111463	SMAC binds to IAPs 
+111464	SMAC-mediated dissociation of IAPcaspase complexes 
+111469	SMAC-mediated apoptotic response
+111471	Apoptotic factor-mediated response
+109606	Intrinsic Pathway for Apoptosis
+264870	Caspase-mediated cleavage of cytoskeletal proteins
+351906	Apoptotic cleavage of cell adhesion  proteins
+352238	Breakdown of the nuclear lamina
+111465	Apoptotic cleavage of cellular proteins
+211227	Activation of DNA fragmentation factor
+140342	Apoptosis induced DNA fragmentation
+211736	Stimulation of the cell death response by PAK-2p34
+75153	Apoptotic execution  phase
+211733	Regulation of activated PAK-2p34 by proteasome mediated degradation
+211728	Regulation of PAK-2p34 activity by PS-GAPRHG10
+418889	Role of DCC in regulating apoptosis
+169911	Regulation of Apoptosis
+2168880	Scavenging of Heme from Plasma
+3000480	Scavenging by Class A Receptors
+3000471	Scavenging by Class B Receptors
+3000484	Scavenging by Class F Receptors
+3000497	Scavenging by Class H Receptors
+69541	Stabilization of p53
+69560	Transcriptional activation of p53 responsive genes  
+69563	p53-Dependent G1 DNA Damage Response
+69580	p53-Dependent G1S DNA damage checkpoint
+69601	Ubiquitin Mediated Degradation of Phosphorylated Cdc25A
+69610	p53-Independent DNA Damage Response
+69613	p53-Independent G1S DNA damage checkpoint
+69615	G1S DNA Damage Checkpoints
+75035	Chk1Chk2(Cds1) mediated inactivation of Cyclin BCdk1 complex
+69473	G2M DNA damage checkpoint
+69478	G2M DNA replication checkpoint
+176187	Activation of ATR in response to replication stress
+69481	G2M Checkpoints
+141444	Amplification  of signal from unattached  kinetochores via a MAD2  inhibitory signal
+141424	Amplification of signal from the kinetochores
+141430	Inactivation of APCC via direct inhibition of the APCC complex
+141405	Inhibition of the proteolytic activity of APCC required for the onset of anaphase by mitotic spindle checkpoint components
+69618	Mitotic Spindle Checkpoint
+69620	Cell Cycle Checkpoints
+1538133	G0 and Early G1
+69231	Cyclin D associated events in G1
+69236	G1 Phase
+187577	SCF(Skp2)-mediated degradation of p27p21
+69200	Phosphorylation of proteins involved in G1S transition by active Cyclin ECdk2 complexes
+69201	Ubiquitin-Dependent Degradation of Cyclin E
+69202	Cyclin E associated events during G1S transition 
+69205	G1S-Specific Transcription
+68962	Activation of the pre-replicative complex
+113501	Inhibition of replication initiation of damaged DNA by RB1E2F1
+113507	E2F-enabled inhibition of pre-replication complex formation
+113510	E2F mediated regulation of DNA replication
+69206	G1S Transition
+453279	Mitotic G1-G1S phases
+187577	SCF(Skp2)-mediated degradation of p27p21
+69656	Cyclin ACdk2-associated events at S phase entry
+68952	DNA replication initiation
+68949	Orc1 removal from chromatin
+69017	CDK-mediated phosphorylation and removal of Cdc6
+69052	Switching of origins to a post-replicative state
+176974	Unwinding of DNA
+69109	Leading Strand Synthesis
+69186	Lagging Strand Synthesis
+69190	DNA strand elongation
+69239	Synthesis of DNA
+69229	Ubiquitin-dependent degradation of Cyclin D1
+75815	Ubiquitin-dependent degradation of Cyclin D
+2468052	Establishment of Sister Chromatid Cohesion
+69242	S Phase
+69298	Association of licensing factors with the pre-replicative complex
+68949	Orc1 removal from chromatin
+69017	CDK-mediated phosphorylation and removal of Cdc6
+69300	Removal of licensing factors from origins
+69304	Regulation of DNA replication
+68911	G2 Phase
+170145	Phosphorylation of proteins involved in the G2M transition by Cyclin ACdc2 complexes
+69273	Cyclin AB1 associated events during G2M transition
+157881	Cyclin B2 mediated events
+2565942	Regulation of PLK1 Activity at G2M Transition
+156711	Polo-like kinase mediated events
+380270	Recruitment of mitotic centrosome proteins and complexes
+380284	Loss of proteins required for interphase microtubule organizationÂ from the centrosome
+380287	Centrosome maturation
+69275	G2M Transition
+453274	Mitotic G2-G2M phases
+162658	Golgi Cisternae Pericentriolar Stack Reorganization
+2465910	MASTL Facilitates Mitotic Progression
+2980767	Activation of NIMA Kinases NEK9 NEK6 NEK7
+3301854	Nuclear Pore Complex (NPC) Disassembly
+2993913	Clearance of Nuclear Envelope Membranes from Chromatin
+2980766	Nuclear Envelope Breakdown
+68875	Mitotic Prophase
+2500257	Resolution of Sister Chromatid Cohesion
+2514853	Condensation of Prometaphase Chromosomes
+68877	Mitotic Prometaphase
+68879	Mitotic Metaphase
+68881	Mitotic MetaphaseAnaphase Transition
+2467813	Separation of Sister Chromatids
+2995410	Nuclear Envelope Reassembly
+68882	Mitotic Anaphase
+2555396	Mitotic Metaphase and Anaphase
+2470946	Cohesin Loading onto Chromatin
+68884	Mitotic TelophaseCytokinesis
+68886	M Phase
+68616	Assembly of the ORC complex at the origin of replication
+68689	CDC6 association with the ORCorigin complex
+68827	CDT1 association with the CDC6ORCorigin complex
+68867	Assembly of the pre-replicative complex
+68962	Activation of the pre-replicative complex
+69002	DNA Replication Pre-Initiation
+68874	MG1 Transition
+176417	Phosphorylation of Emi1
+174113	SCF-beta-TrCP mediated degradation of Emi1
+141405	Inhibition of the proteolytic activity of APCC required for the onset of anaphase by mitotic spindle checkpoint components
+176408	Regulation of APCC activators between G1S and early anaphase
+176412	Phosphorylation of the APCC
+176409	APCCCdc20 mediated degradation of mitotic proteins
+176814	Activation of APCC and APCCCdc20 mediated degradation of mitotic proteins
+176407	Conversion from APCCCdc20 to APCCCdh1 in late anaphase
+174178	APCCCdh1 mediated degradation of Cdc20 and other APCCCdh1 targeted proteins in late mitosisearly G1
+174084	Autodegradation of Cdh1 by Cdh1APCC
+174143	APCC-mediated degradation of cell cycle proteins
+453276	Regulation of mitotic cell cycle
+69278	Cell Cycle Mitotic
+606279	Deposition of New CENPA-containing Nucleosomes at the Centromere
+774815	Nucleosome assembly
+171319	Telomere Extension By Telomerase
+174430	Telomere C-strand synthesis initiation
+174411	Polymerase switching on the C-strand of the telomere
+174414	Processive synthesis on the C-strand of the telomere
+174417	Telomere C-strand (Lagging Strand) Synthesis
+180786	Extension of Telomeres
+171306	Packaging Of Telomere Ends
+157579	Telomere Maintenance
+1221632	Meiotic Synapsis
+73886	Chromosome Maintenance
+420597	NectinNecl  trans heterodimerization
+418990	Adherens junctions interactions
+420029	Tight junction interactions
+421270	Cell-cell junction organization
+446343	Localization of the PINCH-ILK-PARVIN complex to focal adhesions
+446388	Regulation of cytoskeletal remodeling and cell spreading by IPP complex components
+446353	Cell-extracellular matrix interactions
+446107	Type I hemidesmosome assembly
+446728	Cell junction organization
+391160	Signal regulatory protein (SIRP) family interactions
+376172	DSCAM interactions
+373753	Nephrin interactions
+1234162	Oxygen-dependent Asparagine Hydroxylation of Hypoxia-inducible Factor Alpha
+1234176	Oxygen-dependent Proline Hydroxylation of Hypoxia-inducible Factor Alpha
+1234158	Regulation of Gene Expression by Hypoxia-inducible Factor
+1234174	Regulation of Hypoxia-inducible Factor (HIF) by Oxygen
+2262749	Cellular response to hypoxia
+2559585	Oncogene Induced Senescence
+2559580	Oxidative Stress Induced Senescence
+2559584	Formation of Senescence-Associated Heterochromatin Foci (SAHF)
+2559586	DNA DamageTelomere Stress Induced Senescence
+2559582	Senescence-Associated Secretory Phenotype (SASP)
+2559583	Cellular Senescence
+1368108	BMAL1CLOCKNPAS2 Activates Circadian Expression
+1368071	Circadian Repression of Expression by REV-ERBA
+1368082	RORA Activates Circadian Expression
+416550	Sema4D mediated inhibition of cell attachment and migration
+416572	Sema4D induced cell migration and growth-cone collapse
+400685	Sema4D in semaphorin signaling
+399955	SEMA3A-Plexin repulsion signaling by inhibiting Integrin adhesion
+399954	Sema3A PAK dependent Axon repulsion
+399956	CRMPs in Sema3A signaling
+416700	Other semaphorin interactions
+373755	Semaphorin interactions
+110029	RAF activation
+112407	RAF phosphorylates MEK
+110049	MEK activation
+110056	ERK1 activation
+112411	ERK2 activation
+112409	ERK activation
+109869	RAFMAP kinase cascade
+419037	NCAM1 interactions
+375165	NCAM signaling for neurite out-growth
+418885	DCC mediated attractive signaling
+418886	Netrin mediated repulsion signals
+418890	Role of second messengers in netrin-1 signaling
+373752	Netrin-1 signaling
+428542	Regulation of Commissural axon pathfinding by Slit and Robo
+428543	Inactivation of Cdc42 and Rac
+428540	Activation of Rac
+428890	Role of Abl in Robo-Slit signaling
+376176	Signaling by Robo receptor
+437239	Recycling pathway of L1
+445095	Interaction between L1 and Ankyrins
+445144	Signal transduction by L1
+447041	CHL1 interactions
+447043	Neurofascin interactions
+447038	NrCAM interactions
+373760	L1CAM interactions
+422475	Axon guidance
+375170	CDO in myogenesis
+525793	Myogenesis
+210747	Regulation of gene expression in early pancreatic precursor cells
+210744	Regulation of gene expression in late stage (branching morphogenesis) pancreatic bud precursor cells
+210746	Regulation of gene expression in endocrine-committed (NEUROG3+) progenitor cells
+211163	AKT-mediated inactivation of FOXO1A
+210745	Regulation of gene expression in beta cells
+186712	Regulation of beta-cell development
+1433617	Regulation of Signaling by NODAL
+1181150	Signaling by NODAL
+381340	Transcriptional Regulation of White Adipocyte Differentiation
+173107	Binding and entry of HIV virion
+162585	Uncoating of the HIV Virion
+164516	Minus-strand DNA synthesis
+164525	Plus-strand DNA synthesis
+162589	Reverse Transcription of HIV RNA
+175567	Integration of viral DNA into host genomic DNA
+164843	2-LTR circle formation
+177539	Autointegration results in viral DNA circles
+162592	Integration of provirus
+162594	Early Phase of HIV Life Cycle
+167161	HIV Transcription Initiation
+167162	RNA Polymerase II HIV Promoter Escape
+167160	RNA Pol II CTD phosphorylation and interaction with CE
+167169	HIV Transcription Elongation
+167287	HIV elongation arrest and recovery
+167152	Formation of HIV elongation complex in the absence of HIV Tat
+167290	Pausing and recovery of HIV elongation
+167243	Tat-mediated HIV elongation arrest and recovery
+167238	Pausing and recovery of Tat-mediated HIV elongation
+167168	HIV Transcription Termination
+167172	Transcription of the HIV genome
+165054	Rev-mediated nuclear export of HIV RNA
+174495	Synthesis And Processing Of GAG GAGPOL Polyproteins
+171286	Synthesis and processing of ENV and VPU
+175474	Assembly Of The HIV Virion
+162588	Budding and maturation of HIV virion
+162599	Late Phase of HIV Life Cycle
+162587	HIV Life Cycle
+180897	Vpr-mediated induction of apoptosis by mitochondrial outer membrane permeabilization
+180910	Vpr-mediated nuclear import of PICs
+176033	Interactions of Vpr with host cellular proteins
+180746	Nuclear import of Rev protein
+165054	Rev-mediated nuclear export of HIV RNA
+177243	Interactions of Rev with host cellular proteins
+180689	APOBEC3G mediated resistance to HIV-1 infection
+180585	Vif-mediated degradation of APOBEC3G
+176034	Interactions of Tat with host cellular proteins
+164944	Nef and signal transduction
+164939	Nef mediated downregulation of CD28 cell surface expression
+164940	Nef mediated downregulation of MHC class I complex cell surface expression
+167590	Nef Mediated CD4 Down-regulation
+182218	Nef Mediated CD8 Down-regulation
+164938	Nef-mediates down modulation of cell surface receptors by recruiting them to clathrin adapters
+164952	The role of Nef in HIV-1 replication and disease pathogenesis
+180534	Vpu mediated degradation of CD4
+162909	Host Interactions of HIV factors
+162906	HIV Infection
+168275	Entry of Influenza Virion into Host Cell via Endocytosis
+168288	Fusion of the Influenza Virion to the Host Cell Endosome
+168336	Uncoating of the Influenza Virion
+168270	Fusion and Uncoating of the Influenza Virion
+168271	Transport of Ribonucleoproteins into the Host Nucleus
+192905	vRNP Assembly
+168325	Viral Messenger RNA Synthesis
+192869	cRNA Synthesis
+192814	vRNA Synthesis
+192823	Viral mRNA Translation
+168273	Influenza Viral RNA Transcription and Replication
+168330	Viral RNP Complexes in the Host Cell Nucleus
+168333	NEPNS2 Interacts with the Cellular Export Machinery
+168274	Export of Viral Ribonucleoproteins from Nucleus
+168874	Transport of HA trimer NA tetramer and M2 tetramer from the endoplasmic reticulum to the Golgi Apparatus
+168316	Assembly of Viral Components at the Budding Site
+168303	Packaging of Eight RNA Segments
+168302	Budding
+168298	Release
+168268	Virus Assembly and Release
+168255	Influenza Life Cycle
+168315	Inhibition of Host mRNA Processing and RNA Silencing
+168888	Inhibition of IFN-beta
+168305	Inhibition of Interferon Synthesis
+169131	Inhibition of PKR
+168276	 NS1 Mediated Effects on Host Pathways
+168277	Influenza Virus Induced Apoptosis
+168253	Host Interactions with Influenza Factors
+168254	Influenza Infection
+1222556	Phagosomal maturation (early endosomal stage)
+1222538	Tolerance by Mtb to nitric oxide produced by macrophages
+1222387	Tolerance of reactive oxygen produced by macrophages
+1222541	Cell redox homeostasis
+1222449	Mtb iron assimilation by chelation
+1222499	Response of Mtb to phagocytosis
+1222352	Latent infection of Homo sapiens with Mycobacterium tuberculosis
+111997	CaM pathway
+1489509	DAG and IP3 signaling
+212718	EGFR interacts with phospholipase C-gamma
+110029	RAF activation
+110049	MEK activation
+112409	ERK activation
+109869	RAFMAP kinase cascade
+179812	GRB2 events in EGFR signaling
+110029	RAF activation
+110049	MEK activation
+112409	ERK activation
+109869	RAFMAP kinase cascade
+180336	SHC1 events in EGFR signaling
+198323	AKT phosphorylates targets in the cytosol
+198693	AKT phosphorylates targets in the nucleus
+199418	Negative regulation of the PI3KAKT network
+1257604	PIP3 activates AKT signaling
+180292	GAB1 signalosome
+182971	EGFR downregulation
+177929	Signaling by EGFR
+1236382	Signaling by constitutively active EGFR
+1643713	Signaling by EGFR in Cancer
+977225	Amyloids
+181363	Translocation of BoNT Light chain
+168769	BoNT Light Chain Types B D and F cleave VAMPSynaptobrevin
+181546	BoNT Light Chain Types A C1 E cleave SNAP-25
+168782	Proteolytic cleavage of SNARE complex proteins
+168799	Botulinum neurotoxicity
+190370	FGFR1b ligand binding and activation
+190373	FGFR1c ligand binding and activation
+190242	FGFR1 ligand binding and activation
+190377	FGFR2b ligand binding and activation
+190375	FGFR2c ligand binding and activation
+190241	FGFR2 ligand binding and activation
+190371	FGFR3b ligand binding and activation
+190372	FGFR3c ligand binding and activation
+190239	FGFR3 ligand binding and activation
+190322	FGFR4 ligand binding and activation
+1307965	betaKlotho-mediated ligand binding
+190374	FGFR1c and Klotho ligand binding and activation
+1307973	Klotho-mediated ligand binding
+190376	FGFR ligand binding and activation
+109869	RAFMAP kinase cascade
+190345	FRS2-mediated cascade
+1489509	DAG and IP3 signaling
+190347	Phospholipase C-mediated cascade
+190346	SHC-mediated cascade
+1257604	PIP3 activates AKT signaling
+190926	PI-3K cascade
+190333	Downstream signaling of activated FGFR
+1295596	Spry regulation of FGF signaling
+1270470	Negative regulation of FGFR signaling
+190236	Signaling by FGFR
+1839120	Signaling by FGFR1 amplification mutants
+1839117	Signaling by FGFR1 fusion mutants
+1839122	Signaling by activated point mutants of FGFR1
+1839124	Signaling by FGFR1 mutants
+2033519	Activated point mutants of FGFR2
+2023837	Signaling by FGFR2 amplification mutants
+1839126	Signaling by FGFR2 mutants
+1839130	Signaling by activated point mutants of FGFR3
+2033515	t(4;14) translocations of FGFR3
+2033514	Signaling by FGFR3 mutants
+1839128	Signaling by FGFR4 mutants
+1839131	Signaling by FGFR mutants
+1226099	Signaling by FGFR in disease
+2160456	Abnormal metabolism in phenylketonuria
+2142850	Hyaluronan biosynthesis and export
+2160916	Hyaluronan uptake and degradation
+2142845	Hyaluronan metabolism
+174362	Transport and synthesis of PAPS
+2022854	Keratan sulfate biosynthesis
+2022857	Keratan sulfate degradation
+1638074	Keratan sulfatekeratin metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022928	HS-GAG biosynthesis
+2024096	HS-GAG degradation
+1638091	Heparan sulfateheparin (HS-GAG) metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022870	Chondroitin sulfate biosynthesis
+2022923	Dermatan sulfate biosynthesis
+2024101	CSDS degradation
+1793185	Chondroitin sulfatedermatan sulfate metabolism
+1630316	Glycosaminoglycan metabolism
+2206302	MPS I - Hurler syndrome
+2142850	Hyaluronan biosynthesis and export
+2160916	Hyaluronan uptake and degradation
+2142845	Hyaluronan metabolism
+174362	Transport and synthesis of PAPS
+2022854	Keratan sulfate biosynthesis
+2022857	Keratan sulfate degradation
+1638074	Keratan sulfatekeratin metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022928	HS-GAG biosynthesis
+2024096	HS-GAG degradation
+1638091	Heparan sulfateheparin (HS-GAG) metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022870	Chondroitin sulfate biosynthesis
+2022923	Dermatan sulfate biosynthesis
+2024101	CSDS degradation
+1793185	Chondroitin sulfatedermatan sulfate metabolism
+1630316	Glycosaminoglycan metabolism
+2206296	MPS II - Hunter syndrome
+2142850	Hyaluronan biosynthesis and export
+2160916	Hyaluronan uptake and degradation
+2142845	Hyaluronan metabolism
+174362	Transport and synthesis of PAPS
+2022854	Keratan sulfate biosynthesis
+2022857	Keratan sulfate degradation
+1638074	Keratan sulfatekeratin metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022928	HS-GAG biosynthesis
+2024096	HS-GAG degradation
+1638091	Heparan sulfateheparin (HS-GAG) metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022870	Chondroitin sulfate biosynthesis
+2022923	Dermatan sulfate biosynthesis
+2024101	CSDS degradation
+1793185	Chondroitin sulfatedermatan sulfate metabolism
+1630316	Glycosaminoglycan metabolism
+2206307	MPS IIIA - Sanfilippo syndrome A
+2142850	Hyaluronan biosynthesis and export
+2160916	Hyaluronan uptake and degradation
+2142845	Hyaluronan metabolism
+174362	Transport and synthesis of PAPS
+2022854	Keratan sulfate biosynthesis
+2022857	Keratan sulfate degradation
+1638074	Keratan sulfatekeratin metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022928	HS-GAG biosynthesis
+2024096	HS-GAG degradation
+1638091	Heparan sulfateheparin (HS-GAG) metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022870	Chondroitin sulfate biosynthesis
+2022923	Dermatan sulfate biosynthesis
+2024101	CSDS degradation
+1793185	Chondroitin sulfatedermatan sulfate metabolism
+1630316	Glycosaminoglycan metabolism
+2206282	MPS IIIB - Sanfilippo syndrome B
+2142850	Hyaluronan biosynthesis and export
+2160916	Hyaluronan uptake and degradation
+2142845	Hyaluronan metabolism
+174362	Transport and synthesis of PAPS
+2022854	Keratan sulfate biosynthesis
+2022857	Keratan sulfate degradation
+1638074	Keratan sulfatekeratin metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022928	HS-GAG biosynthesis
+2024096	HS-GAG degradation
+1638091	Heparan sulfateheparin (HS-GAG) metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022870	Chondroitin sulfate biosynthesis
+2022923	Dermatan sulfate biosynthesis
+2024101	CSDS degradation
+1793185	Chondroitin sulfatedermatan sulfate metabolism
+1630316	Glycosaminoglycan metabolism
+2206291	MPS IIIC - Sanfilippo syndrome C
+2142850	Hyaluronan biosynthesis and export
+2160916	Hyaluronan uptake and degradation
+2142845	Hyaluronan metabolism
+174362	Transport and synthesis of PAPS
+2022854	Keratan sulfate biosynthesis
+2022857	Keratan sulfate degradation
+1638074	Keratan sulfatekeratin metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022928	HS-GAG biosynthesis
+2024096	HS-GAG degradation
+1638091	Heparan sulfateheparin (HS-GAG) metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022870	Chondroitin sulfate biosynthesis
+2022923	Dermatan sulfate biosynthesis
+2024101	CSDS degradation
+1793185	Chondroitin sulfatedermatan sulfate metabolism
+1630316	Glycosaminoglycan metabolism
+2206305	MPS IIID - Sanfilippo syndrome D
+2142850	Hyaluronan biosynthesis and export
+2160916	Hyaluronan uptake and degradation
+2142845	Hyaluronan metabolism
+174362	Transport and synthesis of PAPS
+2022854	Keratan sulfate biosynthesis
+2022857	Keratan sulfate degradation
+1638074	Keratan sulfatekeratin metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022928	HS-GAG biosynthesis
+2024096	HS-GAG degradation
+1638091	Heparan sulfateheparin (HS-GAG) metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022870	Chondroitin sulfate biosynthesis
+2022923	Dermatan sulfate biosynthesis
+2024101	CSDS degradation
+1793185	Chondroitin sulfatedermatan sulfate metabolism
+1630316	Glycosaminoglycan metabolism
+2206290	MPS IV - Morquio syndrome A
+2142850	Hyaluronan biosynthesis and export
+2160916	Hyaluronan uptake and degradation
+2142845	Hyaluronan metabolism
+174362	Transport and synthesis of PAPS
+2022854	Keratan sulfate biosynthesis
+2022857	Keratan sulfate degradation
+1638074	Keratan sulfatekeratin metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022928	HS-GAG biosynthesis
+2024096	HS-GAG degradation
+1638091	Heparan sulfateheparin (HS-GAG) metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022870	Chondroitin sulfate biosynthesis
+2022923	Dermatan sulfate biosynthesis
+2024101	CSDS degradation
+1793185	Chondroitin sulfatedermatan sulfate metabolism
+1630316	Glycosaminoglycan metabolism
+2206308	MPS IV - Morquio syndrome B
+2142850	Hyaluronan biosynthesis and export
+2160916	Hyaluronan uptake and degradation
+2142845	Hyaluronan metabolism
+174362	Transport and synthesis of PAPS
+2022854	Keratan sulfate biosynthesis
+2022857	Keratan sulfate degradation
+1638074	Keratan sulfatekeratin metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022928	HS-GAG biosynthesis
+2024096	HS-GAG degradation
+1638091	Heparan sulfateheparin (HS-GAG) metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022870	Chondroitin sulfate biosynthesis
+2022923	Dermatan sulfate biosynthesis
+2024101	CSDS degradation
+1793185	Chondroitin sulfatedermatan sulfate metabolism
+1630316	Glycosaminoglycan metabolism
+2206285	MPS VI - Maroteaux-Lamy syndrome
+2142850	Hyaluronan biosynthesis and export
+2160916	Hyaluronan uptake and degradation
+2142845	Hyaluronan metabolism
+174362	Transport and synthesis of PAPS
+2022854	Keratan sulfate biosynthesis
+2022857	Keratan sulfate degradation
+1638074	Keratan sulfatekeratin metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022928	HS-GAG biosynthesis
+2024096	HS-GAG degradation
+1638091	Heparan sulfateheparin (HS-GAG) metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022870	Chondroitin sulfate biosynthesis
+2022923	Dermatan sulfate biosynthesis
+2024101	CSDS degradation
+1793185	Chondroitin sulfatedermatan sulfate metabolism
+1630316	Glycosaminoglycan metabolism
+2206292	MPS VII - Sly syndrome
+2142850	Hyaluronan biosynthesis and export
+2160916	Hyaluronan uptake and degradation
+2142845	Hyaluronan metabolism
+174362	Transport and synthesis of PAPS
+2022854	Keratan sulfate biosynthesis
+2022857	Keratan sulfate degradation
+1638074	Keratan sulfatekeratin metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022928	HS-GAG biosynthesis
+2024096	HS-GAG degradation
+1638091	Heparan sulfateheparin (HS-GAG) metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022870	Chondroitin sulfate biosynthesis
+2022923	Dermatan sulfate biosynthesis
+2024101	CSDS degradation
+1793185	Chondroitin sulfatedermatan sulfate metabolism
+1630316	Glycosaminoglycan metabolism
+2206280	MPS IX - Natowicz syndrome
+2206281	Mucopolysaccharidoses
+2466712	Biosynthesis of A2E implicated in retinal degradation
+2453864	Retinoid cycle disease events
+975634	Retinoid metabolism and transport
+2453902	The canonical retinoid cycle in rods (twilight vision)
+2187335	The retinoid cycle in cones (daylight vision)
+2485179	Activation of the phototransduction cascade
+2514859	Inactivation recovery and regulation of the phototransduction cascade
+2514856	The phototransduction cascade
+2187338	Visual phototransduction
+2474795	Diseases associated with visual transduction
+2219530	Constitutive PI3KAKT Signaling in Cancer
+198323	AKT phosphorylates targets in the cytosol
+198693	AKT phosphorylates targets in the nucleus
+199418	Negative regulation of the PI3KAKT network
+1257604	PIP3 activates AKT signaling
+2219528	PI3KAKT Signaling in Cancer
+2660826	Constitutive Signaling by NOTCH1 t(7;9)(NOTCH1M1580_K2555) Translocation Mutant
+2122948	Activated NOTCH1 Transmits Signal to the Nucleus
+2122947	NOTCH1 Intracellular Domain Regulates Transcription
+1980143	Signaling by NOTCH1
+2660825	Signaling by NOTCH1 t(7;9)(NOTCH1M1580_K2555) Translocation Mutant
+2691232	Constitutive Signaling by NOTCH1 HD Domain Mutants
+2122948	Activated NOTCH1 Transmits Signal to the Nucleus
+2122947	NOTCH1 Intracellular Domain Regulates Transcription
+1980143	Signaling by NOTCH1
+2691230	Signaling by NOTCH1 HD Domain Mutants in Cancer
+2644606	Constitutive Signaling by NOTCH1 PEST Domain Mutants
+2122948	Activated NOTCH1 Transmits Signal to the Nucleus
+2122947	NOTCH1 Intracellular Domain Regulates Transcription
+1980143	Signaling by NOTCH1
+2644602	Signaling by NOTCH1 PEST Domain Mutants in Cancer
+2894862	Constitutive Signaling by NOTCH1 HD+PEST Domain Mutants
+2122948	Activated NOTCH1 Transmits Signal to the Nucleus
+2122947	NOTCH1 Intracellular Domain Regulates Transcription
+1980143	Signaling by NOTCH1
+2894858	Signaling by NOTCH1 HD+PEST Domain Mutants in Cancer
+2644607	Loss of Function of FBXW7 in Cancer and NOTCH1 Signaling
+2122948	Activated NOTCH1 Transmits Signal to the Nucleus
+2122947	NOTCH1 Intracellular Domain Regulates Transcription
+1980143	Signaling by NOTCH1
+2644605	FBXW7 Mutants and NOTCH1 in Cancer
+2644603	Signaling by NOTCH1 in Cancer
+2978092	Abnormal conversion of 2-oxoglutarate to 2-hydroxyglutarate
+196836	Vitamin C (ascorbate) metabolism
+196819	Vitamin B1 (thiamin) metabolism
+196843	Vitamin B2 (riboflavin) metabolism
+199220	Vitamin B5 (pantothenate) metabolism
+964975	Vitamins B6 activation to pyridoxal phosphate
+196741	Cobalamin (Cbl vitamin B12) transport and metabolism
+196780	Biotin transport and metabolism
+196807	Nicotinate metabolism
+196757	Metabolism of folate and pterines
+947581	Molybdenum cofactor biosynthesis
+196849	Metabolism of water-soluble vitamins and cofactors
+3359462	Defective AMN causes hereditary megaloblastic anemia 1
+196836	Vitamin C (ascorbate) metabolism
+196819	Vitamin B1 (thiamin) metabolism
+196843	Vitamin B2 (riboflavin) metabolism
+199220	Vitamin B5 (pantothenate) metabolism
+964975	Vitamins B6 activation to pyridoxal phosphate
+196741	Cobalamin (Cbl vitamin B12) transport and metabolism
+196780	Biotin transport and metabolism
+196807	Nicotinate metabolism
+196757	Metabolism of folate and pterines
+947581	Molybdenum cofactor biosynthesis
+196849	Metabolism of water-soluble vitamins and cofactors
+3359463	Defective CUBN causes hereditary megaloblastic anemia 1
+196836	Vitamin C (ascorbate) metabolism
+196819	Vitamin B1 (thiamin) metabolism
+196843	Vitamin B2 (riboflavin) metabolism
+199220	Vitamin B5 (pantothenate) metabolism
+964975	Vitamins B6 activation to pyridoxal phosphate
+196741	Cobalamin (Cbl vitamin B12) transport and metabolism
+196780	Biotin transport and metabolism
+196807	Nicotinate metabolism
+196757	Metabolism of folate and pterines
+947581	Molybdenum cofactor biosynthesis
+196849	Metabolism of water-soluble vitamins and cofactors
+3359454	Defective TCN2 causes hereditary megaloblastic anemia
+196836	Vitamin C (ascorbate) metabolism
+196819	Vitamin B1 (thiamin) metabolism
+196843	Vitamin B2 (riboflavin) metabolism
+199220	Vitamin B5 (pantothenate) metabolism
+964975	Vitamins B6 activation to pyridoxal phosphate
+196741	Cobalamin (Cbl vitamin B12) transport and metabolism
+196780	Biotin transport and metabolism
+196807	Nicotinate metabolism
+196757	Metabolism of folate and pterines
+947581	Molybdenum cofactor biosynthesis
+196849	Metabolism of water-soluble vitamins and cofactors
+3359458	Defective LMBRD1 causes methylmalonic aciduria and homocystinuria type cblF
+196836	Vitamin C (ascorbate) metabolism
+196819	Vitamin B1 (thiamin) metabolism
+196843	Vitamin B2 (riboflavin) metabolism
+199220	Vitamin B5 (pantothenate) metabolism
+964975	Vitamins B6 activation to pyridoxal phosphate
+196741	Cobalamin (Cbl vitamin B12) transport and metabolism
+196780	Biotin transport and metabolism
+196807	Nicotinate metabolism
+196757	Metabolism of folate and pterines
+947581	Molybdenum cofactor biosynthesis
+196849	Metabolism of water-soluble vitamins and cofactors
+3359457	Defective GIF causes intrinsic factor deficiency
+196836	Vitamin C (ascorbate) metabolism
+196819	Vitamin B1 (thiamin) metabolism
+196843	Vitamin B2 (riboflavin) metabolism
+199220	Vitamin B5 (pantothenate) metabolism
+964975	Vitamins B6 activation to pyridoxal phosphate
+196741	Cobalamin (Cbl vitamin B12) transport and metabolism
+196780	Biotin transport and metabolism
+196807	Nicotinate metabolism
+196757	Metabolism of folate and pterines
+947581	Molybdenum cofactor biosynthesis
+196849	Metabolism of water-soluble vitamins and cofactors
+3359474	Defective MMACHC causes methylmalonic aciduria and homocystinuria type cblC
+196836	Vitamin C (ascorbate) metabolism
+196819	Vitamin B1 (thiamin) metabolism
+196843	Vitamin B2 (riboflavin) metabolism
+199220	Vitamin B5 (pantothenate) metabolism
+964975	Vitamins B6 activation to pyridoxal phosphate
+196741	Cobalamin (Cbl vitamin B12) transport and metabolism
+196780	Biotin transport and metabolism
+196807	Nicotinate metabolism
+196757	Metabolism of folate and pterines
+947581	Molybdenum cofactor biosynthesis
+196849	Metabolism of water-soluble vitamins and cofactors
+3359473	Defective MMADHC causes methylmalonic aciduria and homocystinuria type cblD
+196836	Vitamin C (ascorbate) metabolism
+196819	Vitamin B1 (thiamin) metabolism
+196843	Vitamin B2 (riboflavin) metabolism
+199220	Vitamin B5 (pantothenate) metabolism
+964975	Vitamins B6 activation to pyridoxal phosphate
+196741	Cobalamin (Cbl vitamin B12) transport and metabolism
+196780	Biotin transport and metabolism
+196807	Nicotinate metabolism
+196757	Metabolism of folate and pterines
+947581	Molybdenum cofactor biosynthesis
+196849	Metabolism of water-soluble vitamins and cofactors
+3359467	Defective MTRR causes methylmalonic aciduria and homocystinuria type cblE
+196836	Vitamin C (ascorbate) metabolism
+196819	Vitamin B1 (thiamin) metabolism
+196843	Vitamin B2 (riboflavin) metabolism
+199220	Vitamin B5 (pantothenate) metabolism
+964975	Vitamins B6 activation to pyridoxal phosphate
+196741	Cobalamin (Cbl vitamin B12) transport and metabolism
+196780	Biotin transport and metabolism
+196807	Nicotinate metabolism
+196757	Metabolism of folate and pterines
+947581	Molybdenum cofactor biosynthesis
+196849	Metabolism of water-soluble vitamins and cofactors
+3359469	Defective MTR causes methylmalonic aciduria and homocystinuria type cblG
+196836	Vitamin C (ascorbate) metabolism
+196819	Vitamin B1 (thiamin) metabolism
+196843	Vitamin B2 (riboflavin) metabolism
+199220	Vitamin B5 (pantothenate) metabolism
+964975	Vitamins B6 activation to pyridoxal phosphate
+196741	Cobalamin (Cbl vitamin B12) transport and metabolism
+196780	Biotin transport and metabolism
+196807	Nicotinate metabolism
+196757	Metabolism of folate and pterines
+947581	Molybdenum cofactor biosynthesis
+196849	Metabolism of water-soluble vitamins and cofactors
+3359471	Defective MMAB causes methylmalonic aciduria type cblB
+196836	Vitamin C (ascorbate) metabolism
+196819	Vitamin B1 (thiamin) metabolism
+196843	Vitamin B2 (riboflavin) metabolism
+199220	Vitamin B5 (pantothenate) metabolism
+964975	Vitamins B6 activation to pyridoxal phosphate
+196741	Cobalamin (Cbl vitamin B12) transport and metabolism
+196780	Biotin transport and metabolism
+196807	Nicotinate metabolism
+196757	Metabolism of folate and pterines
+947581	Molybdenum cofactor biosynthesis
+196849	Metabolism of water-soluble vitamins and cofactors
+3359475	Defective MMAA causes methylmalonic aciduria type cblA
+196836	Vitamin C (ascorbate) metabolism
+196819	Vitamin B1 (thiamin) metabolism
+196843	Vitamin B2 (riboflavin) metabolism
+199220	Vitamin B5 (pantothenate) metabolism
+964975	Vitamins B6 activation to pyridoxal phosphate
+196741	Cobalamin (Cbl vitamin B12) transport and metabolism
+196780	Biotin transport and metabolism
+196807	Nicotinate metabolism
+196757	Metabolism of folate and pterines
+947581	Molybdenum cofactor biosynthesis
+196849	Metabolism of water-soluble vitamins and cofactors
+3359478	Defective MUT causes methylmalonic aciduria mut type
+196836	Vitamin C (ascorbate) metabolism
+196819	Vitamin B1 (thiamin) metabolism
+196843	Vitamin B2 (riboflavin) metabolism
+199220	Vitamin B5 (pantothenate) metabolism
+964975	Vitamins B6 activation to pyridoxal phosphate
+196741	Cobalamin (Cbl vitamin B12) transport and metabolism
+196780	Biotin transport and metabolism
+196807	Nicotinate metabolism
+196757	Metabolism of folate and pterines
+947581	Molybdenum cofactor biosynthesis
+196849	Metabolism of water-soluble vitamins and cofactors
+3359485	Defective CD320 causes methylmalonic aciduria
+3296469	Defects in cobalamin (B12) metabolism
+196836	Vitamin C (ascorbate) metabolism
+196819	Vitamin B1 (thiamin) metabolism
+196843	Vitamin B2 (riboflavin) metabolism
+199220	Vitamin B5 (pantothenate) metabolism
+964975	Vitamins B6 activation to pyridoxal phosphate
+196741	Cobalamin (Cbl vitamin B12) transport and metabolism
+196780	Biotin transport and metabolism
+196807	Nicotinate metabolism
+196757	Metabolism of folate and pterines
+947581	Molybdenum cofactor biosynthesis
+196849	Metabolism of water-soluble vitamins and cofactors
+3371599	Defective HLCS causes multiple carboxylase deficiency
+196836	Vitamin C (ascorbate) metabolism
+196819	Vitamin B1 (thiamin) metabolism
+196843	Vitamin B2 (riboflavin) metabolism
+199220	Vitamin B5 (pantothenate) metabolism
+964975	Vitamins B6 activation to pyridoxal phosphate
+196741	Cobalamin (Cbl vitamin B12) transport and metabolism
+196780	Biotin transport and metabolism
+196807	Nicotinate metabolism
+196757	Metabolism of folate and pterines
+947581	Molybdenum cofactor biosynthesis
+196849	Metabolism of water-soluble vitamins and cofactors
+3371598	Defective BTD causes biotidinase deficiency
+3323169	Defects in biotin (Btn) metabolism
+3296482	Defects in vitamin and cofactor metabolism
+2173789	TGF-beta receptor signaling activates SMADs
+2173791	TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)
+2173793	Transcriptional activity of SMAD2SMAD3SMAD4 heterotrimer
+170834	Signaling by TGF-beta Receptor Complex
+3311021	SMAD4 MH2 Domain Mutants in Cancer
+3304347	Loss of Function of SMAD4 in Cancer
+2173789	TGF-beta receptor signaling activates SMADs
+2173791	TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)
+2173793	Transcriptional activity of SMAD2SMAD3SMAD4 heterotrimer
+170834	Signaling by TGF-beta Receptor Complex
+3304356	SMAD23 Phosphorylation Motif Mutants in Cancer
+2173789	TGF-beta receptor signaling activates SMADs
+2173791	TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)
+2173793	Transcriptional activity of SMAD2SMAD3SMAD4 heterotrimer
+170834	Signaling by TGF-beta Receptor Complex
+3315487	SMAD23 MH2 Domain Mutants in Cancer
+3304349	Loss of Function of SMAD23 in Cancer
+2173789	TGF-beta receptor signaling activates SMADs
+2173791	TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)
+2173793	Transcriptional activity of SMAD2SMAD3SMAD4 heterotrimer
+170834	Signaling by TGF-beta Receptor Complex
+3642279	TGFBR2 MSI Frameshift Mutants in Cancer
+2173789	TGF-beta receptor signaling activates SMADs
+2173791	TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)
+2173793	Transcriptional activity of SMAD2SMAD3SMAD4 heterotrimer
+170834	Signaling by TGF-beta Receptor Complex
+3645790	TGFBR2 Kinase Domain Mutants in Cancer
+3642278	Loss of Function of TGFBR2 in Cancer
+2173789	TGF-beta receptor signaling activates SMADs
+2173791	TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)
+2173793	Transcriptional activity of SMAD2SMAD3SMAD4 heterotrimer
+170834	Signaling by TGF-beta Receptor Complex
+3656535	TGFBR1 LBD Mutants in Cancer
+2173789	TGF-beta receptor signaling activates SMADs
+2173791	TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)
+2173793	Transcriptional activity of SMAD2SMAD3SMAD4 heterotrimer
+170834	Signaling by TGF-beta Receptor Complex
+3656532	TGFBR1 KD Mutants in Cancer
+3656534	Loss of Function of TGFBR1 in Cancer
+3304351	Signaling by TGF-beta Receptor Complex in Cancer
+110330	Recognition and association of DNA glycosylase with site containing an affected purine
+110331	Cleavage of the damaged purine
+73927	Depurination
+110328	Recognition and association of DNA glycosylase with site containing an affected pyrimidine
+110329	Cleavage of the damaged pyrimidine 
+73928	Depyrimidination
+73929	Base-Excision Repair AP Site Formation
+110357	Displacement of DNA glycosylase by  APE1
+73930	Base-free sugar-phosphate removal via the single-nucleotide replacement pathway
+110381	Resolution of AP sites via the single-nucleotide replacement pathway
+110357	Displacement of DNA glycosylase by  APE1
+110362	Removal of DNA patch containing abasic residue
+110373	Resolution of AP sites via the multiple-nucleotide patch replacement pathway
+73933	Resolution of Abasic Sites (AP sites)
+73884	Base Excision Repair
+110312	Translesion synthesis by HREV1
+110320	Translesion synthesis by Pol eta  
+110325	Translesion synthesis by Pol zeta
+110313	Translesion synthesis by DNA polymerases bypassing lesion on DNA template 
+73893	DNA Damage Bypass
+112122	ABH2 mediated Reversal of Alkylation Damage
+112126	ABH3 mediated Reversal of Alkylation Damage
+73943	Reversal of Alkylation Damage By DNA Dioxygenases
+73942	DNA Damage Reversal
+75148	ATM mediated phosphorylation of repair proteins
+83542	ATM mediated response to DNA double-strand break
+83572	MRN complex relocalizes to nuclear foci
+75154	Recruitment of repair and signaling proteins to double-strand breaks
+83626	Processing of DNA double-strand break ends
+76003	Presynaptic phase of homologous DNA pairing and strand exchange
+76010	Homologous DNA pairing and strand exchange
+75228	Resolution of D-loop structures through Holliday junction intermediates
+83667	Resolution of D-loop structures through synthesis-dependent strand-annealing
+75149	Resolution of D-loop structures
+73951	Homologous recombination repair of replication-independent double-strand breaks
+73950	Homologous recombination repair of replication-dependent double-strand breaks
+73888	Homologous Recombination Repair
+75924	Processing of DNA ends prior to end rejoining
+73889	Nonhomologous End-joining (NHEJ)
+73890	Double-Strand Break Repair
+73940	DNA Damage Recognition in GG-NER
+73935	Formation of incision complex in GG-NER
+73941	Dual incision reaction in GG-NER
+74967	Repair synthesis of patch ~27-30 bases long  by DNA polymerase
+74969	Gap-filling DNA repair synthesis and ligation in GG-NER
+109970	Global Genomic NER (GG-NER)
+110302	Formation of transcription-coupled NER (TC-NER) repair complex
+110304	Dual incision reaction in TC-NER
+109977	Repair synthesis for gap-filling by DNA polymerase in TC-NER
+109979	Gap-filling DNA repair synthesis and ligation in TC-NER
+73937	Transcription-coupled NER (TC-NER)
+73885	Nucleotide Excision Repair
+419552	Regulation of the Fanconi anemia pathway
+419524	Fanconi Anemia pathway
+68616	Assembly of the ORC complex at the origin of replication
+68689	CDC6 association with the ORCorigin complex
+68827	CDT1 association with the CDC6ORCorigin complex
+68867	Assembly of the pre-replicative complex
+68962	Activation of the pre-replicative complex
+69002	DNA Replication Pre-Initiation
+68874	MG1 Transition
+68952	DNA replication initiation
+68949	Orc1 removal from chromatin
+69017	CDK-mediated phosphorylation and removal of Cdc6
+69052	Switching of origins to a post-replicative state
+176974	Unwinding of DNA
+69091	Polymerase switching
+69109	Leading Strand Synthesis
+69091	Polymerase switching
+69166	Removal of the Flap Intermediate
+69183	Processive synthesis on the lagging strand
+69186	Lagging Strand Synthesis
+69190	DNA strand elongation
+69239	Synthesis of DNA
+69298	Association of licensing factors with the pre-replicative complex
+68949	Orc1 removal from chromatin
+69017	CDK-mediated phosphorylation and removal of Cdc6
+69300	Removal of licensing factors from origins
+69304	Regulation of DNA replication
+1650814	Collagen biosynthesis and modifying enzymes
+2214320	Anchoring fibril formation
+2243919	Crosslinking of collagen fibrils
+2022090	Assembly of collagen fibrils and other multimeric structures
+1474290	Collagen formation
+1566977	Fibronectin matrix formation
+2129379	Molecules associated with elastic fibres
+1566948	Elastic fibre formation
+3000157	Laminin interactions
+3000170	Syndecan interactions
+3000171	Non-integrin membrane-ECM interactions
+3000178	ECM proteoglycans
+1592389	Activation of Matrix Metalloproteinases
+1442490	Collagen degradation
+1474228	Degradation of the extracellular matrix
+216083	Integrin cell surface interactions
+350054	Notch-HLH transcription pathway
+383280	Nuclear Receptor transcription pathway
+2032785	YAP1- and WWTR1 (TAZ)-stimulated gene expression
+2173796	SMAD2SMAD3SMAD4 heterotrimer regulates transcription
+2173795	Downregulation of SMAD23SMAD4 transcriptional activity
+2173793	Transcriptional activity of SMAD2SMAD3SMAD4 heterotrimer
+212436	Generic Transcription Pathway
+73728	RNA Polymerase I Promoter Opening
+73762	RNA Polymerase I Transcription Initiation
+73772	RNA Polymerase I Promoter Escape
+73854	RNA Polymerase I Promoter Clearance
+73777	RNA Polymerase I Chain Elongation
+73863	RNA Polymerase I Transcription Termination
+73864	RNA Polymerase I Transcription
+749476	RNA Polymerase III Abortive And Retractive Initiation
+76061	RNA Polymerase III Transcription Initiation From Type 1 Promoter
+76066	RNA Polymerase III Transcription Initiation From Type 2 Promoter
+76071	RNA Polymerase III Transcription Initiation From Type 3 Promoter
+76046	RNA Polymerase III Transcription Initiation
+73780	RNA Polymerase III Chain Elongation
+73980	RNA Polymerase III Transcription Termination
+74158	RNA Polymerase III Transcription
+163282	Mitochondrial transcription initiation
+163318	POLRMT chain elongation
+163316	Mitochondrial transcription termination
+75944	Transcription from mitochondrial promoters
+504046	RNA Polymerase I RNA Polymerase III and Mitochondrial Transcription
+674695	RNA Polymerase II Pre-transcription Events
+73779	RNA Polymerase II Transcription Pre-Initiation And Promoter Opening
+75953	RNA Polymerase II Transcription Initiation
+73776	RNA Polymerase II Promoter Escape
+76042	RNA Polymerase II Transcription Initiation And Promoter Clearance
+77075	RNA Pol II CTD phosphorylation and interaction with CE
+113418	Formation of the Early Elongation Complex
+112382	Formation of RNA Pol II elongation complex 
+75955	RNA Polymerase II Transcription Elongation
+109688	Cleavage of Growing Transcript in the Termination Region 
+73856	RNA Polymerase II Transcription Termination
+73857	RNA Polymerase II Transcription
+72086	mRNA Capping
+72163	mRNA Splicing - Major Pathway
+72165	mRNA Splicing - Minor Pathway
+72172	mRNA Splicing
+72187	mRNA 3-end processing
+159236	Transport of Mature mRNA derived from an Intron-Containing Transcript
+159230	Transport of the SLBP Dependant Mature mRNA
+159227	Transport of the SLBP independent Mature mRNA
+159231	Transport of Mature mRNA Derived from an Intronless Transcript
+159234	Transport of Mature mRNAs Derived from Intronless Transcripts
+72202	Transport of Mature Transcript to Cytoplasm
+72203	Processing of Capped Intron-Containing Pre-mRNA
+77588	SLBP Dependent Processing of Replication-Dependent Histone Pre-mRNAs
+111367	SLBP independent Processing of Histone Pre-mRNAs
+77595	Processing of Intronless Pre-mRNAs
+75067	Processing of Capped Intronless Pre-mRNA
+75094	Formation of the Editosome
+72200	mRNA Editing C to U Conversion
+77042	Formation of editosomes by ADAR proteins
+75102	C6 deamination of adenosine
+75064	mRNA Editing A to I Conversion
+75072	mRNA Editing
+379716	Cytosolic tRNA aminoacylation
+379726	Mitochondrial tRNA aminoacylation
+379724	tRNA Aminoacylation
+429947	Deadenylation of mRNA
+429958	mRNA Decay by 3 to 5 Exoribonuclease
+430039	mRNA Decay by 5 to 3 Exoribonuclease
+429914	Deadenylation-dependent mRNA decay
+975957	Nonsense Mediated Decay Enhanced by the Exon Junction Complex
+975956	Nonsense Mediated Decay Independent of the Exon Junction Complex
+927802	Nonsense-Mediated Decay
+203927	MicroRNA (miRNA) Biogenesis
+426486	Small Interfering RNA (siRNA) Biogenesis
+426496	Post-transcriptional Silencing By Small RNAs
+211000	Regulatory RNA pathways
+450408	Destabilization of mRNA by AUF1 (hnRNP D0)
+450385	Destabilization of mRNA by Butyrate Response Factor 1 (BRF1)
+450513	Destabilization of mRNA by Tristetraprolin (TTP)
+450604	Destabilization of mRNA by KSRP
+450520	Stabilization of mRNA by HuR
+450531	Regulation of mRNA Stability by Proteins that Bind AU-rich Elements
+72689	Formation of a pool of free 40S subunits
+72695	Formation of the ternary complex and subsequently the 43S complex
+72649	Translation initiation complex formation
+72662	Activation of the mRNA upon binding of the cap-binding complex and eIFs and subsequent binding to 43S
+72702	Ribosomal scanning and start codon recognition
+72706	GTP hydrolysis and joining of the 60S ribosomal subunit
+72731	Recycling of eIF2GDP
+72737	Cap-dependent Translation Initiation
+72771	Cap-independent Translation Initiation
+156827	L13a-mediated translational silencing of Ceruloplasmin expression
+72613	Eukaryotic Translation Initiation
+1799339	SRP-dependent cotranslational protein targeting to membrane
+156902	Peptide chain elongation
+156842	Eukaryotic Translation Elongation
+72764	Eukaryotic Translation Termination
+72766	Translation
+191859	snRNP Assembly
+194441	Metabolism of non-coding RNA
+428359	Binding of RNA by Insulin-like Growth Factor-2 mRNA Binding Proteins (IGF2BPsIMPsVICKZs)
+392851	Prostacyclin signalling through prostacyclin receptor
+418457	cGMP effects
+392154	Nitric oxide stimulates guanylate cyclase
+139853	Elevation of cytosolic Ca2+ levels
+418359	Reduction of cytosolic Ca++ levels
+418360	Platelet calcium homeostasis
+432142	Platelet sensitization by LDL
+418346	Platelet homeostasis
+75892	Platelet Adhesion to exposed collagen
+430116	GP1b-IX-V activation signalling
+392170	ADP signalling through P2Y purinoceptor 12
+418592	ADP signalling through P2Y purinoceptor 1
+428930	Thromboxane signalling through TP receptor
+392518	Signal amplification
+456926	Thrombin signalling through proteinase activated receptors (PARs)
+114604	GPVI-mediated activation cascade
+354194	GRB2SOS provides linkage to MAPK signaling for Intergrins 
+372708	p130Cas linkage to MAPK signaling for integrins
+354192	Integrin alphaIIb beta3 signaling
+392023	Adrenaline signalling through Alpha-2 adrenergic receptor
+76009	Platelet Aggregation (Plug Formation)
+426048	Arachidonate production from DAG
+114508	Effects of PIP2 hydrolysis
+114516	Disinhibition of SNARE formation
+114608	Platelet degranulation 
+76005	Response to elevated platelet cytosolic Ca2+
+76002	Platelet activation signaling and aggregation
+140834	Extrinsic Pathway
+140837	Intrinsic Pathway
+140875	Common Pathway
+140877	Formation of Fibrin Clot (Clotting Cascade)
+75205	Dissolution of Fibrin Clot
+210993	Tie2 Signaling
+210990	PECAM1 interactions
+210991	Basigin interactions
+202733	Cell surface interactions at the vascular wall
+983189	Kinesins
+983231	Factors involved in megakaryocyte development and platelet production
+202427	Phosphorylation of CD3 and TCR zeta chains
+202430	Translocation of ZAP-70 to Immunological synapse
+202433	Generation of second messenger molecules
+202424	Downstream TCR signaling
+202403	TCR signaling
+389357	CD28 dependent PI3KAkt signaling
+389359	CD28 dependent Vav1 pathway
+389356	CD28 co-stimulation
+389513	CTLA4 inhibitory signaling
+389948	PD-1 signaling
+388841	Costimulation by the CD28 family
+983695	Antigen Activates B Cell Receptor Leading to Generation of Second Messengers
+1169091	Activation of NF-kappaB in B Cells
+1169092	Activation of RAS in B Cells
+198323	AKT phosphorylates targets in the cytosol
+198693	AKT phosphorylates targets in the nucleus
+199418	Negative regulation of the PI3KAKT network
+1257604	PIP3 activates AKT signaling
+1168372	Downstream Signaling Events Of B Cell Receptor (BCR)
+983705	Signaling by the B Cell Receptor (BCR)
+983168	Antigen processing Ubiquitination  Proteasome degradation
+983170	Antigen Presentation Folding assembly and peptide loading of class I MHC
+1236973	Cross-presentation of particulate exogenous antigens (phagosomes)
+1236974	ER-Phagosome pathway
+1236977	EndosomalVacuolar pathway
+1236978	Cross-presentation of soluble exogenous antigens (endosomes)
+1236975	Antigen processing-Cross presentation
+983169	Class I MHC mediated antigen processing  presentation
+2132295	MHC class II antigen presentation
+198933	Immunoregulatory interactions between a Lymphoid and a non-Lymphoid cell
+392517	Rap1 signalling
+1280218	Adaptive Immune System
+1679131	Trafficking and processing of endosomal TLR
+937039	IRAK1 recruits IKK complex
+937042	IRAK2 mediated activation of TAK1 complex
+445989	TAK1 activates NFkB by phosphorylation and activation of IKKs complex
+450294	MAP kinase activation in TLR cascade
+975871	MyD88 cascade initiated on plasma membrane
+168142	Toll Like Receptor 10 (TLR10) Cascade
+937061	TRIF-mediated TLR3TLR4 signaling 
+166166	MyD88-independent cascade 
+168164	Toll Like Receptor 3 (TLR3) Cascade
+937039	IRAK1 recruits IKK complex
+937042	IRAK2 mediated activation of TAK1 complex
+445989	TAK1 activates NFkB by phosphorylation and activation of IKKs complex
+450294	MAP kinase activation in TLR cascade
+975871	MyD88 cascade initiated on plasma membrane
+168176	Toll Like Receptor 5 (TLR5) Cascade
+975138	TRAF6 mediated induction of NFkB and MAP kinases upon TLR78 or 9 activation
+975110	TRAF6 mediated IRF7 activation in TLR78 or 9 signaling
+975155	MyD88 dependent cascade initiated on endosome
+168181	Toll Like Receptor 78 (TLR78) Cascade
+975138	TRAF6 mediated induction of NFkB and MAP kinases upon TLR78 or 9 activation
+975110	TRAF6 mediated IRF7 activation in TLR78 or 9 signaling
+975155	MyD88 dependent cascade initiated on endosome
+168138	Toll Like Receptor 9 (TLR9) Cascade
+166020	Transfer of LPS from LBP carrier to CD14
+166058	MyD88Mal cascade initiated on plasma membrane
+166166	MyD88-independent cascade 
+166054	Activated TLR4 signalling
+166016	Toll Like Receptor 4 (TLR4) Cascade
+166058	MyD88Mal cascade initiated on plasma membrane
+168179	Toll Like Receptor TLR1TLR2 Cascade
+166058	MyD88Mal cascade initiated on plasma membrane
+168188	Toll Like Receptor TLR6TLR2 Cascade
+181438	Toll Like Receptor 2 (TLR2) Cascade
+168898	Toll-Like Receptors Cascades
+166662	Lectin pathway of complement activation
+173623	Classical antibody-mediated complement activation
+166786	Creation of C4 and C2 activators
+173736	Alternative complement activation
+166663	Initial triggering of complement
+174577	Activation of C3 and C5
+166665	Terminal pathway of complement
+977606	Regulation of Complement cascade
+166658	Complement cascade
+168638	NOD12 Signaling Pathway
+844456	The NLRP3 inflammasome
+844455	The NLRP1 inflammasome
+844623	The IPAF inflammasome
+844615	The AIM2 inflammasome
+622312	Inflammasomes
+168643	Nucleotide-binding domain leucine rich repeat containing receptor (NLR) signaling pathways
+879415	Advanced glycosylation endproduct receptor signaling
+918233	TRAF3-dependent IRF activation pathway
+933543	NF-kB activation through FADDRIP-1 pathway mediated by caspase-8 and -10
+933541	TRAF6 mediated IRF7 activation
+933542	TRAF6 mediated NF-kB activation
+936440	Negative regulators of RIG-IMDA5 signaling
+168928	RIG-IMDA5 mediated induction of IFN-alphabeta pathways
+1462054	Alpha-defensins
+1461957	Beta defensins
+1461973	Defensins
+1606341	IRF3 mediated activation of type 1 IFN
+1810476	RIP-mediated NFkB activation via ZBP1
+1606322	ZBP1(DAI) mediated induction of type I IFNs
+3270619	IRF3-mediated induction of type I IFN
+3249367	STAT6-mediated induction of chemokines
+1834941	STING mediated induction of host immune responses
+3134973	LRR FLII-interacting protein 1 (LRRFIP1) activates type I IFN production
+3134963	DExH-box helicases activate type I IFN and inflammatory cytokines production 
+3248023	Regulation by TREX1
+3134975	Regulation of innate immune responses to cytosolic DNA
+1834949	Cytosolic sensors of pathogen-associated DNA 
+2029481	FCGR activation
+2029482	Regulation of actin dynamics for phagocytic cup formation
+2029485	Role of phospholipids in phagocytosis
+2029480	Fcgamma receptor (FCGR) dependent phagocytosis
+198323	AKT phosphorylates targets in the cytosol
+198693	AKT phosphorylates targets in the nucleus
+199418	Negative regulation of the PI3KAKT network
+1257604	PIP3 activates AKT signaling
+110029	RAF activation
+110049	MEK activation
+112409	ERK activation
+109869	RAFMAP kinase cascade
+111997	CaM pathway
+1489509	DAG and IP3 signaling
+2424491	DAP12 signaling
+2172127	DAP12 interactions
+110029	RAF activation
+110049	MEK activation
+112409	ERK activation
+109869	RAFMAP kinase cascade
+2871796	FCERI mediated MAPK activation
+2871809	FCERI mediated Ca+2 mobilization
+2871837	FCERI mediated NF-kB activation
+198323	AKT phosphorylates targets in the cytosol
+198693	AKT phosphorylates targets in the nucleus
+199418	Negative regulation of the PI3KAKT network
+1257604	PIP3 activates AKT signaling
+2730905	Role of LAT2NTALLAB on calcium mobilization
+2454202	Fc epsilon receptor (FCERI) signaling
+168249	Innate Immune System
+912694	Regulation of IFNA signaling
+909733	Interferon alphabeta signaling
+877312	Regulation of IFNG signaling
+877300	Interferon gamma signaling
+1169408	ISG15 antiviral mechanism
+1169410	Antiviral mechanism by IFN-stimulated genes
+913531	Interferon Signaling
+448706	Interleukin-1 processing
+446652	Interleukin-1 signaling
+912526	Interleukin receptor SHC signaling
+110029	RAF activation
+110049	MEK activation
+112409	ERK activation
+109869	RAFMAP kinase cascade
+451927	Interleukin-2 signaling
+912526	Interleukin receptor SHC signaling
+912631	Regulation of signaling by CBL
+512988	Interleukin-3 5 and GM-CSF signaling
+1059683	Interleukin-6 signaling
+1266695	Interleukin-7 signaling
+449147	Signaling by Interleukins
+982772	Growth hormone receptor signaling
+1170546	Prolactin receptor signaling
+1280215	Cytokine Signaling in Immune system
+912446	Meiotic Recombination
+1221632	Meiotic Synapsis
+204005	COPII (Coat Protein 2) Mediated Vesicle Transport
+199977	ER to Golgi Transport
+199997	COPI Mediated Transport
+199983	Golgi to ER Retrograde Transport
+432722	Golgi Associated Vesicle Biogenesis
+432720	Lysosome Vesicle Biogenesis
+421837	Clathrin derived vesicle budding
+199992	trans-Golgi Network Vesicle Budding
+190827	Transport of connexins along the secretory pathway
+190704	Oligomerization of connexins into connexons
+190840	Microtubule-dependent trafficking of connexons from Golgi to the plasma membrane
+190872	Transport of connexons to the plasma membrane
+190861	Gap junction assembly
+196025	Formation of annular gap junctions
+190873	Gap junction degradation
+190828	Gap junction trafficking
+191647	c-src mediated regulation of Cx43 function and closure of gap junctions
+191650	Regulation of gap junction activity
+157858	Gap junction trafficking and regulation
+917729	Endosomal Sorting Complex Required For Transport (ESCRT)
+1445148	Translocation of GLUT4 to the Plasma Membrane
+189085	Digestion of dietary carbohydrate
+170822	Regulation of Glucokinase by Glucokinase Regulatory Protein
+70153	Glucose transport
+189200	Hexose transport
+70171	Glycolysis
+70263	Gluconeogenesis
+3322077	Glycogen synthesis
+70221	Glycogen breakdown (glycogenolysis)
+70326	Glucose metabolism
+70350	Fructose catabolism
+70370	Galactose catabolism
+71336	Pentose phosphate pathway (hexose monophosphate shunt)
+73843	5-Phosphoribose 1-diphosphate biosynthesis
+2142850	Hyaluronan biosynthesis and export
+2160916	Hyaluronan uptake and degradation
+2142845	Hyaluronan metabolism
+174362	Transport and synthesis of PAPS
+2022854	Keratan sulfate biosynthesis
+2022857	Keratan sulfate degradation
+1638074	Keratan sulfatekeratin metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022928	HS-GAG biosynthesis
+2024096	HS-GAG degradation
+1638091	Heparan sulfateheparin (HS-GAG) metabolism
+1971475	A tetrasaccharide linker sequence is required for GAG synthesis
+2022870	Chondroitin sulfate biosynthesis
+2022923	Dermatan sulfate biosynthesis
+2024101	CSDS degradation
+1793185	Chondroitin sulfatedermatan sulfate metabolism
+1630316	Glycosaminoglycan metabolism
+71387	Metabolism of carbohydrates
+1855204	Synthesis of IP3 and IP4 in the cytosol
+1855196	IP3 and IP4 transport between cytosol and nucleus
+1855191	Synthesis of IPs in the nucleus
+1855170	IPs transport between nucleus and cytosol
+1855167	Synthesis of pyrophosphates in the cytosol
+1855229	IP6 and IP7 transport between cytosol and nucleus
+1855184	IPs transport between cytosol and ER lumen
+1855231	Synthesis of IPs in the ER lumen
+1855215	IPs transport between ER lumen and cytosol
+1855156	IPs transport between ER lumen and nucleus
+1855192	IPs transport between nucleus and ER lumen
+1855183	Synthesis of IP2 IP and Ins in the cytosol
+1483249	Inositol phosphate metabolism
+192456	Digestion of dietary lipid
+265473	Trafficking of dietary sterols
+174800	Chylomicron-mediated lipid transport
+194223	HDL-mediated lipid transport
+171052	LDL-mediated lipid transport
+174824	Lipoprotein metabolism
+163560	Hormone-sensitive lipase (HSL)-mediated triacylglycerol hydrolysis
+73923	Lipid digestion mobilization and transport
+75876	Synthesis of very long-chain fatty acyl-CoAs
+75105	Fatty Acyl-CoA Biosynthesis
+75109	Triglyceride Biosynthesis
+200425	Import of palmitoyl-CoA into the mitochondrial matrix
+77305	Beta oxidation of palmitoyl-CoA to myristoyl-CoA
+77285	Beta oxidation of myristoyl-CoA to lauroyl-CoA
+77310	Beta oxidation of lauroyl-CoA to decanoyl-CoA-CoA
+77346	Beta oxidation of decanoyl-CoA to octanoyl-CoA-CoA
+77348	Beta oxidation of octanoyl-CoA to hexanoyl-CoA
+77350	Beta oxidation of hexanoyl-CoA to butanoyl-CoA
+77352	Beta oxidation of butanoyl-CoA to acetyl-CoA
+77286	mitochondrial fatty acid beta-oxidation of saturated fatty acids
+77288	mitochondrial fatty acid beta-oxidation of unsaturated fatty acids
+71032	Propionyl-CoA catabolism
+77289	Mitochondrial Fatty Acid Beta-Oxidation
+77111	Synthesis of Ketone Bodies
+77108	Utilization of Ketone Bodies
+74182	Ketone body metabolism
+1989781	PPARA Activates Gene Expression
+400206	Regulation of Lipid Metabolism by Peroxisome proliferator-activated receptor alpha (PPARalpha)
+535734	Fatty acid triacylglycerol and ketone body metabolism
+389599	Alpha-oxidation of phytanate
+389887	Beta-oxidation of pristanoyl-CoA
+390247	Beta-oxidation of very long chain fatty acids
+75896	Plasmalogen biosynthesis
+389542	NADPH regeneration
+390918	Peroxisomal lipid metabolism
+191273	Cholesterol biosynthesis
+2426168	Activation of Gene Expression by SREBP (SREBF)
+1655829	Regulation of Cholesterol Biosynthesis by SREBP (SREBF)
+193368	Synthesis of bile acids and bile salts via 7alpha-hydroxycholesterol
+193775	Synthesis of bile acids and bile salts via 24-hydroxycholesterol
+193807	Synthesis of bile acids and bile salts via 27-hydroxycholesterol
+192105	Synthesis of bile acids and bile salts
+159418	Recycling of bile acids and salts
+194068	Bile acid and bile salt metabolism
+196108	Pregnenolone biosynthesis
+194002	Glucocorticoid biosynthesis
+193993	Mineralocorticoid biosynthesis
+193048	Androgen biosynthesis
+193144	Estrogen biosynthesis
+196791	Vitamin D (calciferol) metabolism
+196071	Metabolism of steroid hormones and vitamin D
+1483166	Synthesis of PA
+1482883	Acyl chain remodeling of DAG and TAG
+1483213	Synthesis of PE
+1482839	Acyl chain remodelling of PE
+1483152	Hydrolysis of LPE
+1483191	Synthesis of PC
+1483196	PI and PC transport between ER and Golgi membranes
+1482788	Acyl chain remodelling of PC
+1483115	Hydrolysis of LPC
+1483101	Synthesis of PS
+1482801	Acyl chain remodelling of PS
+1483226	Synthesis of PI
+1482922	Acyl chain remodelling of PI
+1483148	Synthesis of PG
+1482925	Acyl chain remodelling of PG
+1483076	Synthesis of CL
+1482798	Acyl chain remodeling of CL
+1483171	Synthesis of BMP
+1483206	Glycerophospholipid biosynthesis
+1483248	Synthesis of PIPs at the ER membrane
+1483196	PI and PC transport between ER and Golgi membranes
+1660514	Synthesis of PIPs at the Golgi membrane
+1660510	PIPs transport between Golgi and plasma membranes
+1660499	Synthesis of PIPs at the plasma membrane
+1660524	PIPs transport between plasma and early endosome membranes
+1660516	Synthesis of PIPs at the early endosome membrane
+1660537	PIPs transport between early endosome and Golgi membranes
+1660502	PIPs transport between early and late endosome membranes
+1660517	Synthesis of PIPs at the late endosome membrane
+1660508	PIPs transport between late endosome and Golgi membranes
+1483255	PI Metabolism
+1483257	Phospholipid metabolism
+2046106	alpha-linolenic acid (ALA) metabolism
+2046105	Linoleic acid (LA) metabolism
+2046104	alpha-linolenic (omega3) and linoleic (omega6) acid metabolism
+2162123	Synthesis of Prostaglandins (PG) and Thromboxanes (TX)
+2142691	Synthesis of Leukotrienes (LT) and Eoxins (EX)
+2142688	Synthesis of 5-eicosatetraenoic acids
+2142770	Synthesis of 15-eicosatetraenoic acid derivatives
+2142712	Synthesis of 12-eicosatetraenoic acid derivatives
+2142700	Synthesis of Lipoxins (LX)
+2142696	Synthesis of Hepoxilins (HX) and Trioxilins (TrX)
+2142816	Synthesis of (16-20)-hydroxyeicosatetraenoic acids (HETE)
+2142670	Synthesis of epoxy (EET) and dihydroxyeicosatrienoic acids (DHET)
+2142753	Arachidonic acid metabolism
+1660661	Sphingolipid de novo biosynthesis
+1660662	Glycosphingolipid metabolism
+428157	Sphingolipid metabolism
+2142789	Ubiquinol biosynthesis
+556833	Metabolism of lipids and lipoproteins
+400042	Inhibition of Insulin Secretion by AdrenalineNoradrenaline
+399997	Regulation of Insulin Secretion by Acetylcholine
+434316	Regulation of Insulin Secretion by Fatty Acids Bound to GPR40 (FFAR1)
+400451	Regulation of Insulin Secretion by Free Fatty Acids
+381676	Regulation of Insulin Secretion by Glucagon-like Peptide-1
+422356	Regulation of Insulin Secretion
+164378	PKA activation in glucagon signalling
+163359	Glucagon signaling in metabolic regulation
+163358	PKA-mediated phosphorylation of key metabolic factors
+163754	Insulin effects increased synthesis of Xylulose-5-Phosphate
+163680	AMPK inhibits chREBP transcriptional activation activity
+163767	PP2A-mediated dephosphorylation of key metabolic factors
+163765	ChREBP activates metabolic gene expression
+163685	Integration of energy metabolism
+203615	eNOS activation
+203754	NOSIP mediated eNOS trafficking
+203641	NOSTRIN mediated eNOS trafficking
+1474151	Tetrahydrobiopterin (BH4) synthesis recycling salvage and regulation
+203765	eNOS activation and regulation
+202131	Metabolism of nitric oxide
+204174	Regulation of pyruvate dehydrogenase (PDH) complex
+70268	Pyruvate metabolism
+71403	Citric acid cycle (TCA cycle)
+880009	Interconversion of 2-oxoglutarate and 2-hydroxyglutarate
+71406	Pyruvate metabolism and Citric Acid (TCA) cycle
+611105	Respiratory electron transport
+163210	Formation of ATP by chemiosmotic coupling
+167826	The fatty acid cycling model
+167827	The proton buffering model
+166187	Mitochondrial Uncoupling Proteins
+163200	Respiratory electron transport ATP synthesis by chemiosmotic coupling and heat production by uncoupling proteins
+1428517	The citric acid (TCA) cycle and respiratory electron transport
+73817	Purine ribonucleoside monophosphate biosynthesis
+74217	Purine salvage
+74259	Purine catabolism
+73847	Purine metabolism
+500753	Pyrimidine biosynthesis
+73614	Pyrimidine salvage reactions
+73621	Pyrimidine catabolism
+73848	Pyrimidine metabolism
+499943	Synthesis and interconversion of nucleotide di- and triphosphates
+2393930	Phosphate bond hydrolysis by NUDT proteins
+15869	Metabolism of nucleotides
+196836	Vitamin C (ascorbate) metabolism
+196819	Vitamin B1 (thiamin) metabolism
+196843	Vitamin B2 (riboflavin) metabolism
+196783	Coenzyme A biosynthesis
+199220	Vitamin B5 (pantothenate) metabolism
+964975	Vitamins B6 activation to pyridoxal phosphate
+196741	Cobalamin (Cbl vitamin B12) transport and metabolism
+196780	Biotin transport and metabolism
+197264	Nicotinamide salvaging
+196807	Nicotinate metabolism
+196757	Metabolism of folate and pterines
+947581	Molybdenum cofactor biosynthesis
+196849	Metabolism of water-soluble vitamins and cofactors
+196854	Metabolism of vitamins and cofactors
+977347	Serine biosynthesis
+70614	Amino acid synthesis and interconversion (transamination)
+70895	Branched-chain amino acid catabolism
+70921	Histidine catabolism
+71064	Lysine catabolism
+71182	Phenylalanine and tyrosine catabolism
+70688	Proline catabolism
+71240	Tryptophan catabolism
+70635	Urea cycle
+71262	Carnitine synthesis
+71288	Creatine metabolism
+351143	Agmatine biosynthesis
+351200	Interconversion of polyamines
+1237112	Methionine salvage pathway
+351202	Metabolism of polyamines
+350562	Regulation of ornithine decarboxylase (ODC)
+209905	Catecholamine biosynthesis
+350864	Regulation of thyroid hormone activity
+209968	Thyroxine biosynthesis
+209931	Serotonin and melatonin biosynthesis
+209776	Amine-derived hormones
+389661	Glyoxylate metabolism
+1237112	Methionine salvage pathway
+1614603	Cysteine formation from homocysteine
+1614517	Sulfide oxidation to sulfate
+1614558	Degradation of cysteine and homocysteine
+1614635	Sulfur amino acid metabolism
+71291	Metabolism of amino acids and derivatives
+189451	Heme biosynthesis
+189483	Heme degradation
+189445	Metabolism of porphyrins
+211994	Sterols are 12-hydroxylated by CYP8B1
+211976	Endogenous sterols
+211957	Aromatic amines can be N-hydroxylated or N-dealkylated by CYP1A2
+211999	CYP2E1 reactions
+211981	Xenobiotics
+211935	Fatty acids
+211979	Eicosanoids
+211916	Vitamins
+211958	Miscellaneous substrates
+211897	Cytochrome P450 - arranged by substrate type
+217271	FMO oxidizes nucleophiles
+140180	COX reactions
+141333	Monoamines are oxidized to aldehydes by MAOA and MAOB producing NH3 and H2O2
+141334	Polyamines are oxidized to amines aldehydes and H2O2 by PAOs
+140179	Amine Oxidase reactions
+71384	Ethanol oxidation
+211945	Phase 1 - Functionalization of compounds
+173599	Formation of the active cofactor UDP-glucuronate
+156588	Glucuronidation
+174362	Transport and synthesis of PAPS
+156584	Cytosolic sulfonation of small molecules
+156582	Acetylation
+156581	Methylation
+174403	Glutathione synthesis and recycling
+156590	Glutathione conjugation
+177135	Conjugation of benzoate with glycine
+177162	Conjugation of phenylacetate with glutamine
+177128	Conjugation of salicylate with glycine
+159424	Conjugation of carboxylic acids
+156587	Amino Acid conjugation
+156580	Phase II conjugation
+211859	Biological oxidations
+2395516	Electron Transport from NADPH to Ferredoxin
+1362409	Mitochondrial Iron-Sulfur Cluster Biogenesis
+1237044	Uptake of Carbon Dioxide and Release of Oxygen by Erythrocytes
+1247673	Uptake of Oxygen and Release of Carbon Dioxide by Erythrocytes
+1480926	O2CO2 exchange in erythrocytes
+2161517	Abacavir transmembrane transport
+2161541	Abacavir metabolism
+2161522	Abacavir transport and metabolism
+1475029	Reversible Hydration of Carbon Dioxide
+2564830	Cytosolic Iron-sulfur Cluster Assembly
+72689	Formation of a pool of free 40S subunits
+72695	Formation of the ternary complex and subsequently the 43S complex
+72649	Translation initiation complex formation
+72662	Activation of the mRNA upon binding of the cap-binding complex and eIFs and subsequent binding to 43S
+72702	Ribosomal scanning and start codon recognition
+72706	GTP hydrolysis and joining of the 60S ribosomal subunit
+72731	Recycling of eIF2GDP
+72737	Cap-dependent Translation Initiation
+72771	Cap-independent Translation Initiation
+156827	L13a-mediated translational silencing of Ceruloplasmin expression
+72613	Eukaryotic Translation Initiation
+1799339	SRP-dependent cotranslational protein targeting to membrane
+156902	Peptide chain elongation
+156842	Eukaryotic Translation Elongation
+72764	Eukaryotic Translation Termination
+72766	Translation
+389957	Prefoldin mediated transfer of substrate  to CCTTriC
+389960	Formation of tubulin folding intermediates by CCTTriC
+390450	Folding of actin by CCTTriC
+389958	Cooperation of Prefoldin and TriCCCT  in actin and tubulin folding
+390471	Association of TriCCCT with target proteins during biosynthesis
+390466	Chaperonin-mediated protein folding
+389977	Post-chaperonin tubulin folding pathway
+391251	Protein folding
+159740	Gamma-carboxylation of protein precursors
+159763	Transport of gamma-carboxylated protein precursors from the endoplasmic reticulum to the Golgi apparatus
+159782	Removal of aminoterminal propeptides from gamma-carboxylated proteins
+159854	Gamma-carboxylation transport and amino-terminal cleavage of proteins
+204626	Hypusine synthesis from eIF5A-lysine
+1663150	The activation of arylsulfatases
+163841	PTM gamma carboxylation hypusine formation and arylsulfatase activation
+162699	Synthesis of dolichyl-phosphate mannose
+162710	Synthesis of glycosylphosphatidylinositol (GPI)
+162791	Attachment of GPI anchor to uPAR
+163125	Post-translational modification synthesis of GPI-anchored proteins
+446199	Synthesis of Dolichyl-phosphate
+446210	Synthesis of UDP-N-acetyl-glucosamine
+446205	Synthesis of GDP-mannose
+162699	Synthesis of dolichyl-phosphate mannose
+480985	Synthesis of dolichyl-phosphate-glucose
+446219	Synthesis of substrates in N-glycan biosythesis
+446193	Biosynthesis of the N-glycan precursor (dolichol lipid-linked oligosaccharide LLO) and transfer to a nascent protein
+901032	ER Quality Control Compartment (ERQC)
+901042	Calnexincalreticulin cycle
+532668	N-glycan trimming in the ER and CalnexinCalreticulin cycle
+204005	COPII (Coat Protein 2) Mediated Vesicle Transport
+199977	ER to Golgi Transport
+964827	Progressive trimming of alpha-12-linked mannose residues from Man987GlcNAc2 to produce Man5GlcNAc2
+964739	N-glycan trimming and elongation in the cis-Golgi
+975574	Reactions specific to the hybrid N-glycan synthesis pathway
+975578	Reactions specific to the complex N-glycan synthesis pathway
+975577	N-Glycan antennae elongation
+975576	N-glycan antennae elongation in the medialtrans-Golgi
+948021	Transport to the Golgi and subsequent modification
+446203	Asparagine N-linked glycosylation
+977068	Termination of O-glycan biosynthesis
+913709	O-linked glycosylation of mucins
+3065679	Proteolytic Processing of SUMO
+3065676	Conjugation of SUMO to E1 (UBA2SAE1)
+3065678	Transfer of SUMO from E1 to E2 (UBE2I UBC9)
+3215018	Processing and Activation of SUMO
+2990846	SUMOylation
+597592	Post-translational protein modification
+1268020	Mitochondrial Protein Import
+264876	Insulin Processing
+422085	Synthesis Secretion and Deacylation of Ghrelin
+2022377	Metabolism of Angiotensinogen to Angiotensins
+381771	Synthesis Secretion and Inactivation of Glucagon-like Peptide-1 (GLP-1)
+400511	Synthesis Secretion and Inactivation of Glucose-dependent Insulinotropic Polypeptide (GIP)
+400508	Incretin Synthesis Secretion and Inactivation
+209822	Glycoprotein hormones
+209952	Peptide hormone biosynthesis
+2980736	Peptide hormone metabolism
+381426	Regulation of Insulin-like Growth Factor (IGF) Transport and Uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs)
+381183	Activation of Chaperone Genes by ATF6-alpha
+381033	Activation of Chaperones by ATF6-alpha
+381038	Activation of Chaperone Genes by XBP1(S)
+381070	Activation of Chaperones by IRE1alpha
+380994	Activation of Genes by ATF4
+381042	PERK regulated gene expression
+381119	Unfolded Protein Response
+390522	Striated Muscle Contraction
+445355	Smooth Muscle Contraction
+112303	Electric Transmission Across Gap Junctions
+112307	Transmission across Electrical Synapses 
+112308	Depolarization of the Presynaptic Terminal Triggers the Opening of Calcium Channels
+181430	Norepinephrine Neurotransmitter Release Cycle
+181429	Serotonin Neurotransmitter Release Cycle
+210500	Glutamate Neurotransmitter Release Cycle
+212676	Dopamine Neurotransmitter Release Cycle
+264642	Acetylcholine Neurotransmitter Release Cycle
+888568	GABA synthesis
+888593	Reuptake of GABA
+916853	Degradation of GABA
+888590	GABA synthesis release reuptake and degradation
+112310	Neurotransmitter Release Cycle
+379397	Enzymatic degradation of dopamine by COMT
+379398	Enzymatic degradation of Dopamine by monoamine oxidase
+379401	Dopamine clearance from the synaptic cleft
+380612	Metabolism of serotonin
+380615	Serotonin clearance from the synaptic cleft
+112311	Neurotransmitter Clearance In The Synaptic Cleft
+210455	Astrocytic Glutamate-Glutamine Uptake And Metabolism
+112313	Neurotransmitter uptake and Metabolism In Glial Cells
+622323	Presynaptic nicotinic acetylcholine receptors
+622327	Postsynaptic nicotinic acetylcholine receptors
+629602	Activation of Nicotinic Acetylcholine Receptors
+181431	Acetylcholine Binding And Downstream Events
+416993	Trafficking of GluR2-containing AMPA receptors
+399719	Trafficking of AMPA receptors
+399710	Activation of AMPA receptors
+399721	Glutamate Binding Activation of AMPA Receptors and Synaptic Plasticity
+438066	Unblocking of NMDA receptor glutamate binding and activation
+442742	CREB phosphorylation through the activation of Ras
+442720	CREB phosphorylation through the activation of Adenylate Cyclase
+442729	CREB phosphorylation through the activation of CaMKII
+442717	CREB phosphorylation through the activation of CaMKK
+438064	Post NMDA receptor activation events
+442755	Activation of NMDA receptor upon glutamate binding and postsynaptic events
+451307	Activation of Na-permeable Kainate Receptors
+451308	Activation of Ca-permeable Kainate Receptor
+451306	Ionotropic activity of Kainate Receptors
+500657	Presynaptic function of Kainate receptors
+451326	Activation of Kainate Receptors upon glutamate binding
+977441	GABA A receptor activation
+991365	Activation of GABAB receptors
+977444	GABA B receptor activation
+977442	GABA A (rho) receptor activation
+977443	GABA receptor activation
+112314	Neurotransmitter Receptor Binding And Downstream Transmission In The  Postsynaptic Cell
+112315	Transmission across Chemical Synapses
+1296052	Ca2+ activated K+ channels
+1296061	HCN channels
+1296041	Activation of G protein gated Potassium channels
+1296059	G protein gated Potassium channels
+1296067	Potassium transport channels
+1296025	ATP sensitive Potassium channels
+1296053	Classical Kir channels
+1296065	Inwardly rectifying K+ channels
+1296072	Voltage gated Potassium channels
+1299308	Tandem of pore domain in a weak inwardly rectifying K+ channels (TWIK)
+1299503	TWIK related potassium channel (TREK)
+1299316	TWIK-releated acid-sensitive K+ channel (TASK)
+1299361	TWIK-related alkaline pH activated K+ channel (TALK)
+1299344	TWIK-related spinal cord K+ channel (TRESK)
+1299287	Tandem pore domain halothane-inhibited K+ channel (THIK)
+1296346	Tandem pore domain potassium channels
+1296071	Potassium Channels
+181363	Translocation of BoNT Light chain
+168769	BoNT Light Chain Types B D and F cleave VAMPSynaptobrevin
+181546	BoNT Light Chain Types A C1 E cleave SNAP-25
+168782	Proteolytic cleavage of SNARE complex proteins
+168799	Botulinum neurotoxicity
+1300642	Sperm Motility And Taxes
+2534343	Interaction With Cumulus Cells
+1300644	Interaction With The Zona Pellucida
+1300645	Acrosome Reaction
+1300652	SpermOocyte Membrane Binding
+1187000	Fertilization
+111933	Calmodulin induced events
+111997	CaM pathway
+1489509	DAG and IP3 signaling
+212718	EGFR interacts with phospholipase C-gamma
+110029	RAF activation
+112407	RAF phosphorylates MEK
+110049	MEK activation
+110056	ERK1 activation
+112411	ERK2 activation
+112409	ERK activation
+109869	RAFMAP kinase cascade
+179812	GRB2 events in EGFR signaling
+110029	RAF activation
+112407	RAF phosphorylates MEK
+110049	MEK activation
+110056	ERK1 activation
+112411	ERK2 activation
+112409	ERK activation
+109869	RAFMAP kinase cascade
+180336	SHC1 events in EGFR signaling
+198323	AKT phosphorylates targets in the cytosol
+198693	AKT phosphorylates targets in the nucleus
+199418	Negative regulation of the PI3KAKT network
+1257604	PIP3 activates AKT signaling
+180292	GAB1 signalosome
+182971	EGFR downregulation
+177929	Signaling by EGFR
+190370	FGFR1b ligand binding and activation
+190373	FGFR1c ligand binding and activation
+190242	FGFR1 ligand binding and activation
+190377	FGFR2b ligand binding and activation
+190375	FGFR2c ligand binding and activation
+190241	FGFR2 ligand binding and activation
+190371	FGFR3b ligand binding and activation
+190372	FGFR3c ligand binding and activation
+190239	FGFR3 ligand binding and activation
+190322	FGFR4 ligand binding and activation
+1307965	betaKlotho-mediated ligand binding
+190374	FGFR1c and Klotho ligand binding and activation
+1307973	Klotho-mediated ligand binding
+190376	FGFR ligand binding and activation
+110029	RAF activation
+110049	MEK activation
+112409	ERK activation
+109869	RAFMAP kinase cascade
+190345	FRS2-mediated cascade
+111997	CaM pathway
+1489509	DAG and IP3 signaling
+190347	Phospholipase C-mediated cascade
+190346	SHC-mediated cascade
+198323	AKT phosphorylates targets in the cytosol
+198693	AKT phosphorylates targets in the nucleus
+199418	Negative regulation of the PI3KAKT network
+1257604	PIP3 activates AKT signaling
+190926	PI-3K cascade
+190333	Downstream signaling of activated FGFR
+1295596	Spry regulation of FGF signaling
+1270470	Negative regulation of FGFR signaling
+190236	Signaling by FGFR
+74744	SHC activation
+109869	RAFMAP kinase cascade
+112410	SHC-mediated signalling
+77388	SHC-related events
+74713	IRS activation
+109704	PI3K Cascade
+112412	SOS-mediated signalling
+112399	IRS-mediated signalling
+77389	IRS-related events
+74749	Signal attenuation
+74751	Insulin receptor signalling cascade
+77387	Insulin receptor recycling
+74752	Signaling by Insulin receptor
+167060	NGF processing
+205017	NFG and proNGF binds to p75NTR
+193648	NRAGE signals death through JNK
+205043	NRIF signals cell death from the nucleus
+205025	NADE modulates death signalling
+204998	Cell death signalling via NRAGE NRIF and NADE
+193670	p75NTR negatively regulates cell cycle via SC1
+209543	p75NTR recruits signalling complexes
+209560	NF-kB is activated and signals survival
+193639	p75NTR signals via NF-kB
+193681	Ceramide signalling
+209563	Axonal growth stimulation
+193634	Axonal growth inhibition (RHOA activation)
+193697	p75NTR regulates axonogenesis
+193692	Regulated proteolysis of p75NTR
+193704	p75 NTR receptor-mediated signalling
+187042	TRKA activation by NGF
+187024	NGF-independant TRKA activation
+187015	Activation of TRKA receptors
+109869	RAFMAP kinase cascade
+197529	Feedback control in the MAPK signaling module
+171007	p38MAPK events
+167044	Signalling to RAS
+109869	RAFMAP kinase cascade
+187706	Signalling to p38 via RIT and RIN
+170968	Frs2-mediated activation
+170984	ARMS-mediated activation
+169893	Prolonged ERK activation events
+187687	Signalling to ERKs
+111997	CaM pathway
+1489509	DAG and IP3 signaling
+167021	PLC-gamma1 signalling
+198323	AKT phosphorylates targets in the cytosol
+198693	AKT phosphorylates targets in the nucleus
+199418	Negative regulation of the PI3KAKT network
+1257604	PIP3 activates AKT signaling
+198203	PI3KAKT activation
+198745	Signalling to STAT3
+198765	Signalling to ERK5
+177504	Retrograde neurotrophin signalling
+202670	ERKs are inactivated
+198753	ERKMAPK targets
+199920	CREB phosphorylation
+198725	Nuclear Events (kinase and transcription factor activation)
+187037	NGF signalling via TRKA from the plasma membrane
+166520	Signalling by NGF
+198323	AKT phosphorylates targets in the cytosol
+198693	AKT phosphorylates targets in the nucleus
+199418	Negative regulation of the PI3KAKT network
+1257604	PIP3 activates AKT signaling
+111933	Calmodulin induced events
+111997	CaM pathway
+1489509	DAG and IP3 signaling
+110029	RAF activation
+112407	RAF phosphorylates MEK
+110049	MEK activation
+110056	ERK1 activation
+112411	ERK2 activation
+112409	ERK activation
+109869	RAFMAP kinase cascade
+186763	Downstream signal transduction
+186797	Signaling by PDGF
+195399	VEGF binds to VEGFR leading to receptor dimerization
+194306	Neurophilin interactions with VEGF and VEGFR
+194313	VEGF ligand-receptor interactions
+194138	Signaling by VEGF
+198323	AKT phosphorylates targets in the cytosol
+198693	AKT phosphorylates targets in the nucleus
+199418	Negative regulation of the PI3KAKT network
+1257604	PIP3 activates AKT signaling
+110029	RAF activation
+112407	RAF phosphorylates MEK
+110049	MEK activation
+110056	ERK1 activation
+112411	ERK2 activation
+112409	ERK activation
+109869	RAFMAP kinase cascade
+1433559	Regulation of KIT signaling
+1433557	Signaling by SCF-KIT
+110029	RAF activation
+112407	RAF phosphorylates MEK
+110049	MEK activation
+110056	ERK1 activation
+112411	ERK2 activation
+112409	ERK activation
+109869	RAFMAP kinase cascade
+1250196	SHC1 events in ERBB2 signaling
+110029	RAF activation
+112407	RAF phosphorylates MEK
+110049	MEK activation
+110056	ERK1 activation
+112411	ERK2 activation
+112409	ERK activation
+109869	RAFMAP kinase cascade
+1963640	GRB2 events in ERBB2 signaling
+198323	AKT phosphorylates targets in the cytosol
+198693	AKT phosphorylates targets in the nucleus
+199418	Negative regulation of the PI3KAKT network
+1257604	PIP3 activates AKT signaling
+1963642	PI3K events in ERBB2 signaling
+111933	Calmodulin induced events
+111997	CaM pathway
+1489509	DAG and IP3 signaling
+1251932	PLCG1 events in ERBB2 signaling
+1306955	GRB7 events in ERBB2 signaling
+1358803	Downregulation of ERBB2ERBB3 signaling
+1227986	Signaling by ERBB2
+110029	RAF activation
+112407	RAF phosphorylates MEK
+110049	MEK activation
+110056	ERK1 activation
+112411	ERK2 activation
+112409	ERK activation
+109869	RAFMAP kinase cascade
+1250347	SHC1 events in ERBB4 signaling
+198323	AKT phosphorylates targets in the cytosol
+198693	AKT phosphorylates targets in the nucleus
+199418	Negative regulation of the PI3KAKT network
+1257604	PIP3 activates AKT signaling
+1250342	PI3K events in ERBB4 signaling
+1170546	Prolactin receptor signaling
+1251985	Nuclear signaling by ERBB4
+1253288	Downregulation of ERBB4 signaling
+1236394	Signaling by ERBB4
+163615	PKA activation
+111931	PKA-mediated phosphorylation of CREB
+111932	CaMK IV-mediated phosphorylation of CREB
+111957	Cam-PDE 1 activation
+111933	Calmodulin induced events
+111997	CaM pathway
+1489509	DAG and IP3 signaling
+198323	AKT phosphorylates targets in the cytosol
+198693	AKT phosphorylates targets in the nucleus
+199418	Negative regulation of the PI3KAKT network
+1257604	PIP3 activates AKT signaling
+110029	RAF activation
+112407	RAF phosphorylates MEK
+110049	MEK activation
+110056	ERK1 activation
+112411	ERK2 activation
+112409	ERK activation
+109869	RAFMAP kinase cascade
+194840	Rho GTPase cycle
+194315	Signaling by Rho GTPases
+201451	Signaling by BMP
+2173788	Downregulation of TGF-beta receptor signaling
+2173789	TGF-beta receptor signaling activates SMADs
+2173791	TGF-beta receptor signaling in EMT (epithelial to mesenchymal transition)
+2173796	SMAD2SMAD3SMAD4 heterotrimer regulates transcription
+2173795	Downregulation of SMAD23SMAD4 transcriptional activity
+2173793	Transcriptional activity of SMAD2SMAD3SMAD4 heterotrimer
+170834	Signaling by TGF-beta Receptor Complex
+1912408	Pre-NOTCH Transcription and Translation
+1912399	Pre-NOTCH Processing in the Endoplasmic Reticulum
+1912420	Pre-NOTCH Processing in Golgi
+1912422	Pre-NOTCH Expression and Processing
+2122948	Activated NOTCH1 Transmits Signal to the Nucleus
+2122947	NOTCH1 Intracellular Domain Regulates Transcription
+1980143	Signaling by NOTCH1
+2979096	NOTCH2 Activation and Transmission of Signal to the Nucleus
+2197563	NOTCH2 intracellular domain regulates transcription
+1980145	Signaling by NOTCH2
+1980148	Signaling by NOTCH3
+1980150	Signaling by NOTCH4
+157118	Signaling by NOTCH
+380108	Chemokine receptors bind chemokines
+380095	Tachykinin receptors bind tachykinins
+388479	Vasopressin-like receptors
+389397	Orexin and neuropeptides FF and QRFP bind to their respective receptors
+444473	Formyl peptide receptors bind formyl peptides and many other ligands
+444821	Relaxin receptors
+375276	Peptide ligand-binding receptors
+390648	Muscarinic acetylcholine receptors
+390696	Adrenoceptors
+390651	Dopamine receptors
+390650	Histamine receptors
+390666	Serotonin receptors
+375280	Amine ligand-binding receptors
+375281	Hormone ligand-binding receptors
+391908	Prostanoid ligand receptors
+391906	Leukotriene receptors
+391903	Eicosanoid ligand-binding receptors
+417957	P2Y receptors
+417973	Adenosine P1 receptors
+418038	Nucleotide-like (purinergic) receptors
+3296197	Hydroxycarboxylic acid-binding receptors
+419408	Lysosphingolipid and LPA receptors
+419771	Opsins
+444209	Free fatty acid receptors
+373076	Class A1 (Rhodopsin-like receptors)
+419812	Calcitonin-like ligand receptors
+420092	Glucagon-type ligand receptors
+373080	Class B2 (Secretin family receptors)
+420499	Class C3 (Metabotropic glutamatepheromone receptors)
+500792	GPCR ligand binding
+418555	G alpha (s) signalling events
+418594	G alpha (i) signalling events
+418597	G alpha (z) signalling events
+426048	Arachidonate production from DAG
+114508	Effects of PIP2 hydrolysis
+416476	G alpha (q) signalling events
+416482	G alpha (1213) signalling events
+392451	G betagamma signalling through PI3Kgamma
+418217	G betagamma signalling through PLC beta
+397795	G-protein betagamma signalling
+381753	Olfactory Signaling Pathway
+388396	GPCR downstream signaling
+202040	G-protein activation
+111996	Ca-dependent events
+112043	PLC beta mediated events
+170660	Adenylate cyclase activating pathway
+170670	Adenylate cyclase inhibitory pathway
+112040	G-protein mediated events
+180024	DARPP-32 events
+111885	Opioid Signalling
+426048	Arachidonate production from DAG
+114508	Effects of PIP2 hydrolysis
+416476	G alpha (q) signalling events
+2179392	EGFR Transactivation by Gastrin
+110029	RAF activation
+112407	RAF phosphorylates MEK
+110049	MEK activation
+110056	ERK1 activation
+112411	ERK2 activation
+112409	ERK activation
+109869	RAFMAP kinase cascade
+881907	Gastrin-CREB signalling pathway via PKC and MAPK
+372790	Signaling by GPCR
+3238698	WNT ligand biogenesis and trafficking
+196299	Beta-catenin phosphorylation cascade
+195253	Degradation of beta-catenin by the destruction complex
+195721	Signaling by Wnt
+2028269	Signaling by Hippo
+109869	RAFMAP kinase cascade
+112410	SHC-mediated signalling
+2428933	SHC-related events triggered by IGF1R
+109704	PI3K Cascade
+112412	SOS-mediated signalling
+112399	IRS-mediated signalling
+2428928	IRS-related events triggered by IGF1R
+2428924	IGF1R signaling cascade
+2404192	Signaling by Type 1 Insulin-like Growth Factor 1 Receptor (IGF1R)
+2473224	Antagonism of Activin by Follistatin
+1502540	Signaling by Activin
+975634	Retinoid metabolism and transport
+2453902	The canonical retinoid cycle in rods (twilight vision)
+2187335	The retinoid cycle in cones (daylight vision)
+2485179	Activation of the phototransduction cascade
+2514859	Inactivation recovery and regulation of the phototransduction cascade
+2514856	The phototransduction cascade
+2187338	Visual phototransduction
+110029	RAF activation
+112407	RAF phosphorylates MEK
+110049	MEK activation
+110056	ERK1 activation
+112411	ERK2 activation
+112409	ERK activation
+109869	RAFMAP kinase cascade
+2586552	Signaling by Leptin
+354194	GRB2SOS provides linkage to MAPK signaling for Intergrins 
+372708	p130Cas linkage to MAPK signaling for integrins
+354192	Integrin alphaIIb beta3 signaling
+3065679	Proteolytic Processing of SUMO
+3065676	Conjugation of SUMO to E1 (UBA2SAE1)
+3065678	Transfer of SUMO from E1 to E2 (UBE2I UBC9)
+3215018	Processing and Activation of SUMO
+1369062	ABCA transporters in lipid homeostasis
+1369007	Mitochondrial ABC transporters
+382556	ABC-family proteins mediated transport
+425381	Bicarbonate transporters
+425561	SodiumCalcium exchangers
+425986	SodiumProton exchangers
+426117	Cation-coupled Chloride cotransporters
+427601	Multifunctional anion exchangers
+427589	Type II Na+Pi cotransporters
+427652	Sodium-coupled phosphate cotransporters
+352230	Amino acid transport across the plasma membrane
+428643	Organic anion transporters
+428559	Proton-coupled neutral amino acid transporters
+427975	Protonoligonucleotide cotransporters
+425393	Transport of inorganic cationsanions and amino acidsoligopeptides
+170822	Regulation of Glucokinase by Glucokinase Regulatory Protein
+70153	Glucose transport
+189200	Hexose transport
+428776	Class II GLUTs
+428790	Facilitative Na+-independent glucose transporters
+428808	Na+-dependent glucose transporters
+429593	Inositol transporters
+433137	Sodium-coupled sulphate di- and tri-carboxylate transporters
+433692	Proton-coupled monocarboxylate transport
+435368	Zinc efflux and compartmentalization by the SLC30 family
+442380	Zinc influx into cells by the SLC39 gene family
+435354	Zinc transporters
+425410	Metal ion SLC transporters
+442660	Na+Cl- dependent neurotransmitter transporters
+444411	Rhesus glycoproteins mediate ammonium transport
+549127	Organic cation transport
+561048	Organic anion transport
+549132	Organic cationanionzwitterion transport
+425366	Transport of glucose and other sugars bile salts and organic acids metal ions and amine compounds
+83936	Transport of nucleosides and free purine and pyrimidine bases across the plasma membrane
+727802	Transport of nucleotide sugars
+804914	Transport of fatty acids
+879518	Transport of organic anions
+425397	Transport of vitamins nucleosides and related molecules
+425407	SLC-mediated transmembrane transport
+432047	Passive Transport by Aquaporins
+432040	Regulation of Water Balance by Renal Aquaporins
+432030	Transport of Glycerol from Adipocytes to the Liver by Aquaporins
+445717	Aquaporin-mediated transport
+917977	Transferrin endocytosis and recycling
+917937	Iron uptake and transport
+936837	Ion transport by P-type ATPases
+975298	Ligand-gated ion channel transport
+3295583	TRP channels
+2672351	Stimuli-sensing channels
+983712	Ion channel transport
